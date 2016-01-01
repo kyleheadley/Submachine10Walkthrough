@@ -41,36 +41,32 @@ This is written as if we have everything we need to pass each obstacle. The play
 
 Progressive spoilers: character of the game, descriptions and clues, search locations
 
-<details><summary>
-1. Chapter 1: Where Am I?
-</summary>
-  The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
-  <details><summary>
-  1. Docks
-  </summary>
-    We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
-    <details><summary>Hint</summary>
-    - Put the Light Sphere in the circular device to gain access to the building.
+<details><summary>## Chapter 1: Where Am I?</summary>
+    The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
+    <details><summary>### Docks</summary>
+        We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
+        <details><summary>Hint</summary>
+        - Put the Light Sphere in the circular device to gain access to the building.
+        </details>
     </details>
-  </details>
-  2. <details><summary>Control Room</summary>
-    This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
-    <details><summary>Hint</summary>
-    - Click the lever marked '3' to move the ladder to the ship.
+    <details><summary>### Control Room</summary>
+        This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
+        <details><summary>Hint</summary>
+        - Click the lever marked '3' to move the ladder to the ship.
+        </details>
     </details>
+    <details><summary>### Ship</summary>
+        We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
+        <details><summary>Hint</summary>
+        - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
+        </details>
+        The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
+        <details><summary>Hint</summary>
+        - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
+        </details>
     </details>
-  3. <details><summary>Ship</summary>
-    We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
-    <details><summary>Hint</summary>
-    - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
-    </details>
-    The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
-    <details><summary>Hint</summary>
-    - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
-    </details>
-    </details>
-  4. <details><summary>Old House</summary>
-    We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
+    <details><summary>Old House</summary>
+        We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
     </details>
 </details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
