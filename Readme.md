@@ -297,415 +297,335 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
     </details> 
   </details>
 2. <details><summary>Activate the '110' Powered Portal</summary>
-        <p>For this we need 5 Vector Finders, but 3 are in 110 in rooms near the portal. We need to teleport to two places to get them before heading to the portal. For efficiency, we should take a Plasma Charge with us, found in a fourth teleport location, and well hidden. You can get all of these items without needing any others.
-        <details>
-        <summary>Step-by-step</summary>
-            - Visit 100, get the Vector Finder, it's somewhere left of the teleporter
-                <details>
-                    Enter the storage vault, there's only one left of the teleporter. The doors lead to 5 random rooms, so keep clicking until you see a metal object in front. Get it and click doors until you see the vault arms, signifying the exit.
-                    </details>
-            - Visit 101, get the Vector Finder, it's nearby
-                <details>
-                    Use the Piston to call the ladder. Take it up one screen, the Vector Finder is a metal object on the edge of that ledge.
-                    </details>
-            - Visit 011, get the Plasma Charge, it's a small green sphere
-                <details>
-                    Follow the ladders all the way around the spheres. Enter the large one at the hatch and go to the left of the massive computer. One of the glowing green things is the Plasma Charge.
-                    </details>
-            - Visit 110, three rooms have Vector Finders, one has the portal
-                <details>
-                    Enter the door left of the teleporter, the Vector Finder is down the stairs. Enter the door right of the teleporter, the Vector finder is past obstacles, down a hallway, and inside a desk. Enter the door further right of the teleporter, to see three more doors. The Vector Finder is in the right room and the portal is in the center room.
-                    </details>
-            - Activate the Portal
-                <details>
-                    With the Vector Finders selected, click each socket with a red light to insert the Vector Finder. The portal will glow blue.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            <p>Secret 1 is in the vault, you'll be back later, so no pressure. An item for accessing the secret room is here.
-            </details>
+  For this we need 5 Vector Finders, but 3 are in 110 in rooms near the portal. We need to teleport to two places to get them before heading to the portal. For efficiency, we should take a Plasma Charge with us, found in a fourth teleport location, and well hidden. You can get all of these items without needing any others.
+  - <details><summary>Step-by-step</summary>
+    1. Visit 100, get the Vector Finder, it's somewhere left of the teleporter
+      - <details><summary>Hint</summary>
+        Enter the storage vault, there's only one left of the teleporter. The doors lead to 5 random rooms, so keep clicking until you see a metal object in front. Get it and click doors until you see the vault arms, signifying the exit.
         </details>
-    <details>
-    <summary>Complete the Ladder</summary>
-        <p>For this we need 3 Ladder Steps, each in a different teleport location. One is, as you've guessed, behind the portal we just activated. While we're there, we'll save ourselves a trip by getting a rune and activating Shiva's emergency exit protocol. The second Step is a quick grab like the Vector Finders, but we'll collect a paper with a hint while we're there. The third Step will take some work, since we need to gain access to the powered portal to reach it. 
-        <details>
-        <summary>Step-by-step</summary>
-            - Enter the portal at 110, find the crawl vents and rune paper.
-                <details>
-                    Go left, click to open, left again for rune
-                    </details>
-            - Enter the left vent, then the right, collecting everything
-                <details>
-                    Both vents only have a few rooms. The left one is easy, collect the Plasma Charge, click to deactivate the security grid, and collect the Block Removal Tool. The right one needs the Removal Tool to get the center mechanism working, then there's a wheel in rooms to rotate it. Click once when going through, 3 times when going back. Collect the Plasma Charge in the first room, Ladder Step in the second, and Hatch Valve and Karma Vial in the third.
-                    </details>
-            - Enter the Hatch right of the portal, activate Shiva's emergency protocol
-                <details>
-                    It's high up on the wall. Connect the Hatch Valve and open it. Inside, place the three Plasma Charges in the box and click the screen to deactivate the barrier. If you're missing a Charge, get it from 011. Click the large screen and click the protocol toggle to change it.
-                    </details>
-            - Visit 111, collect the Ladder Step and paper with Hieroglyphics
-                <details>
-                    Step is far right of teleporter, paper is far left.
-                    </details>
-            - Visit 010, activate the drill
-                <details>
-                    At the far left of the teleporter is a handle, connect it to the drill and open both handles. Pull the lever you just passed, then come back and pull the handled cord to activate the drill
-                    </details>
-            - Grab items underground and use them there to find the portal
-                <details>
-                    Enter the hole right of the teleporter, collect the Range Confirmator. Enter the drill hole, place the Confirmator in one of the sockets. Get the Air Lock Handle in the bottom right and use it to open the Lock at the bottom left. Get the other Confirmator and the rune paper behind it.
-                    Place the Confirmator in the other socket. Activate the hatch in the other hole, then return to the hatch to find the portal beneath.
-                    </details>
-            - Enter the portal, collect the Ladder Step
-                <details>
-                    Grab the Canister powering the portal blocking your path and proceed inside the building. The Ladder Step is down the stairs and to the left.
-                    </details>
-            - Visit 101 again, grab the rune paper, enter the portal, finish the Ladder
-                <details>
-                    Go up to the second ledge this time. If you don't have the Ladder Piston set up, get it from the Ship and set it up. There's a rune paper at the top, then the portal. The ladder is just left of the portal, use the Steps to complete it.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            <p>The Secret Vault is the door labeled S3C, but you can't get in yet
-            </details>
+    2. Visit 101, get the Vector Finder, it's nearby
+      - <details>
+        Use the Piston to call the ladder. Take it up one screen, the Vector Finder is a metal object on the edge of that ledge.
         </details>
-    <details>
-    <summary>Acquire the Second Light Sphere</summary>
-        <p>The first sphere is just beyond the ladder in 101P, but this is the 'harder' one to get. If you found the 'easy' one first, see 'Complete the Ladder' above to access this one. Use the Light Sphere to access the pod, and collect the other 4 items in this area. There are no more puzzles here. Avoid the paper. It has a hint for the end of the game, but it will fill an extra inventory slot so it's not worth it unless you're collecting them. After this area we'll grab the other Cog Wheel, and go collect the 'easy' Sphere. We waited so that we can complete that entire area, including past the portal, in one trip!
-        <details>
-        <summary>Step-by-step</summary>
-            - Collect 4 items in 101P
-                <details>
-                    There's a Root Finder left of the ladder. Use the Light Sphere to access the pod. There's a Cap in the hatch and a Cog up above. The Coil is next to the portal out.
-                    </details>
-            - Visit 011, the route has changed, and there's a Cog Wheel nearby
-                <details>
-                    Enter the busted tube and head into the lower sphere. Use the Insulator Cap on the mechanism to avoid getting locked in. Head into the large sphere and take the ladder down to get the Cog Wheel. If there's no ladder, activate it in 110P. If you don't have the Plasma Charge you need, it's at the left of this large sphere. The instructions are in 'Complete the Ladder' above.
-                    </details>
-            - Visit 001, reach the portal
-                <details>
-                    You should already have the Cog you need, but you'll need the other one in a minute so lets get it. There's a totem right of the teleporter. Go up twice to find the hint papers for it. They are Hieroglyphics and repeated symbols show you how to line up the papers. If you don't have the third one already, you can get it from 111, but it would be easier now to just try all the options for the last symbol. The box up and to the left will be open if all the symbols are correct. Collect the large Cog Wheel and use it in the nearby mechanism to lower the ladder. There are two, but the Cog only fits in the correct one. Follow the ladder down to reach the portal.
-                    </details>
-            - Collect 3 items past the portal, including the Light Sphere
-                <details>
-                    The Light Sphere is visible, and the small Cog Wheel is in the tub. 
-                    Clear the metal plates on the far right to access another portal. Use the Root Path Finder (described above) to reach the Data Tape.
-                    </details>
-            - Finish up the area by collecting the last 2 items
-                <details>
-                    Exit the portal and use the Cogs (described above) in the other mechanism. Head down to the jackal head and click until it brings you to the other one. There's a ladder down to a Portal Charge, and a device that takes the Karma Vial and gives a Stone Grape when the third button from the top is clicked. If you don't have the Karma Vial, get it from the tunnels left of 110P. Use the Jackal to get back to the teleporter.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            Nothing here
-            </details>
+    3. Visit 011, get the Plasma Charge, it's a small green sphere
+      - <details>
+        Follow the ladders all the way around the spheres. Enter the large one at the hatch and go to the left of the massive computer. One of the glowing green things is the Plasma Charge.
         </details>
-    <details>
-    <summary>Activate the '000' Powered Portal</summary>
-        <p>By now you've seen most of the areas, and we'll see most of the rest for this objective. The goal is to make use of your items to get 3 Portal Stabilisers and a Portal Charge. We have to visit one of two locations twice to finish up, so we'll pick the one that's quicker. Depending on how you used the first Light Sphere, you may have different items, so the first step is to use the second Sphere to get caught up.
-        <details>
-        <summary>Step-by-step</summary>
-            - If you haven't yet, use the Light Sphere at 101P, then finish 001
-                <details>
-                    This is described above in 'Acquire the Second Light Sphere'. The end result should be: Insulator Cap, Coil, Portal Charge, Stone Grape, Data Tape
-                    </details>
-            - Use the other Sphere in 111, get the Portal Stabiliser in 111P
-                <details>
-                    You can use the Sphere down the right ladder. You get a Glyph that powers the portal. There's only one thing to do in 111P, go left and up the stairs to plug in the Coil and find the Stabiliser at the end of the wire.
-                    </details>
-            - Quick stop at 101 to drop off the Data Tape
-                <details>
-                    That big computer on the ledge needs it
-                    </details>
-            - Visit 011P, get Stabiliser, Grape, and Skull
-                <details>
-                    If you can't get there, use the Insulator Cap in the lower sphere to enter the left sphere. There's a Grape Stone in the box on the floor, a Skull in one of the rooms, and a Stabiliser in another.
-                    </details>
-            - Quick stop at 101 to drop off 2 Grape Stones
-                <details>
-                    The ox statue to the left needs completion
-                    </details>
-            - Visit 110 to get the Stabiliser, drop off Canister
-                <details>
-                    Go right from the teleporter. The door left of the portal door has the Stabiliser. Left from the teleporter is a socket for the Plasma Canister. Take the short detour if you're collecting secrets, it will save an inventory space.
-                    </details>
-            - Activate the 000 Portal
-                <details>
-                    Actually, don't do it yet. Save the trip and start the next walkthrough section to get the clue first. It's a big milestone so it deserved to be written here... You have all the items, so head right and down from the teleporter to reach the portal. Plug in the 3 Stabilizers and Portal Charge, then press the lever to activate the portal.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            <p>Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later.
-            </details>
+    4. Visit 110, three rooms have Vector Finders, one has the portal
+      - <details>
+        Enter the door left of the teleporter, the Vector Finder is down the stairs. Enter the door right of the teleporter, the Vector finder is past obstacles, down a hallway, and inside a desk. Enter the door further right of the teleporter, to see three more doors. The Vector Finder is in the right room and the portal is in the center room.
         </details>
-    <details>
-    <summary>Open the Back Door to '000'</summary>
-        <p>The puzzles here are mostly local, so enter the portal and keep pressing forward. There's a place to backtrack at the beginning, so we'll get the last rune paper first to minimize that. There are a bunch of items to get just before reaching the door, so it's best to get them now.
-        <details>
-        <summary>Step-by-step</summary>
-            - Visit 100 to get the last rune paper
-                <details>
-                    Far right of the teleporter there's a ladder up to 33/4. Enter and go right until you see the rune paper on the wall. Go right again to return to the entrance so you can leave. There are puzzles here, but now is not the time to do them. You should have 4 rune papers now. The others are in 101, 110P, and 010.
-                    </details>
-            - Activate the transmitter in the basement
-                <details>
-                    The portal from 000 is right and down from the teleporter. Head down to get a Light Sphere, then up to use it. Left of the path past that is where you enter the runes. Each input has a different set of runes, so click until you see one that's on your papers. Like the temple totem, nothing will happen here when you set all the runes. Now we backtrack and find the receiver.
-                    </details>
-            - Reach the elevator
-                <details>
-                    The rune receiver is in 111, down the ladder left of the teleporter. Take the fork and return to the blocked path. Use it to complete the wire, then head around to the box near the area entrance. Flip the switch to lower the ladder. Head back to the ladder. Use the portal below and head left to the elevator.
-                    </details>
-            - Solve the red room puzzles
-                <details>
-                    Click elevator buttons to reach the red rooms. The puzzles here are all self-contained. Move back and forth between rooms, flipping switches, grabbing items and using them. You'll finish by releasing the glass covering a portal out.
-                        <details>
-                            You need 4 Levers. One is on the ground. One is accessed by pressing both switches, then retrieving it from the upper right room. For the third, take the Stone Weight from the lower right and put it on the platform in the lower left. Finally, check the notch in the stone wheels. Move the one to line up with the other, and take the Lever from device just left of the exit. Put all the Levers around the exit to access the portal. An efficient path is: right, all down, all up, all left, exit.
-                            </details>
-                    </details>
-            - Grab some stuff on your way back
-                <details>
-                    This is a reminiscing area, with no puzzles left to solve. Go down, left and grab the four white fuses. Then up, left, up to the portal. Before you go, you should get the Valve just left of the portal, and the Light Sphere right and all the way up from the portal.
-                    </details>
-            - Remove the beam from the door to reach 000
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            <p>An item for Secret 10 is near the rune paper, but we don't need it yet and will be back later. Secret 4 is here, you have to backtrack to the red rooms. Items needed for Secrets 4, 5, 6, and 7 are in the yellow rooms.
-            </details>
-        </details>
-    <details>
-    <summary>Fill the Stabiliser with Karma</summary>
-        <p>Now we can satisfy the large capsules that we've seen around the place. That will get us a Stabiliser, which we can then fill to make it useful. The idea is straight forward, but it's a major milestone that involves searching back through places we've been.
-        <details>
-        <summary>Step-by-step</summary>
-            - If you missed them, get the 4 Fuses and Skull
-                <details>
-                    The fuses are in the yellow rooms through the back door in 000, the Skull is from 011P
-                    </details>
-            - Visit 111, place fuse
-                <details>
-                    It's down the ladder left of the teleporter
-                    </details>
-            - Visit 100 33/3, place fuse
-                <details>
-                    Second storage room right of the teleporter. Go right once from the entrance, place the fuse and return the way you came. Again, there are puzzles here, but we'll get to them later.
-                    </details>
-            - Visit 110, place fuse, get Chip
-                <details>
-                    The large capsule is through the door right of the teleporter and down the hall. On the other side of that room is a magnifying glass you can use to examine the Skull.
-                    </details>
-            - Visit 110P, place fuse
-                <details>
-                    Go through the left crawl vent and alternate right and up until you reach the large capsule.
-                    </details>
-            - Return to 000, collect Empty Karma Stabiliser
-                <details>
-                    It's by the door left of the teleporter.
-                    </details>
-            - Visit 010P, fill Stabiliser 
-                <details>
-                    There's a security point in the lower level. Move the pedestal with a click and place the Explorer's Chip on it. Click the scanner to proceed. Put the Stabiliser on the lab equipment and turn the dial on the tank to fill it.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            Secret 6 is in the lab.
-            </details>
-        </details>
-    <details>
-    <summary>Enter the Lighthouse</summary>
-        <p>The Stabiliser allows us to enter many new (small) areas. We need to collect 4 Tiles from them, and 2 Plasma Coils. We finally solve the puzzles in the Royal Storage, unless they've been completed along the way.
-        <details>
-        <summary>Step-by-step</summary>
-            - Visit 100, activate portal
-                <details>
-                    Explore the vaults looking for Loop Stabilisers and Karma Fuses. They're all 'loops', so doors may not lead where you expect. Start on the right of the teleporter. Down the ladder you can get one of each item pretty easily. The next vault has a Fuse at the right and the portal on the left of the entrance. The next vault has a puzzle to get an item. Set a switch, then activate the corresponding mechanism. Repeat until you get the Stabiliser. The upper vault is hardest to navigate. Solve the puzzle by clicking two different levers, and a panel with a Stabiliser will open. A Fuse is on the ground. Head left of the teleporter to the other vault. Find a Fuse on the ground and use all 4 in a mechanism. Click to activate. Find the Stabiliser in an opened panel. Head right of the teleporter to the first vault. Enter and place the Stabilisers around the portal.
-                    <details>
-                    <summary>If you're really stuck</summary>
-                        33/3:
-                            Enter, Left, Dial to '1', Up, Set Device,  Left, Dial to '2', Right, Right, Right, Set Device, Right, Left, Dial to '3', Down, Set Device, Left, Dial to glyph, Down, Down, Get item, Down, Exit.
-                        33/4:
-                            Enter, Left, Left, Get item, Up, Set Device, Right, Right, Right, Down, Set Device, Up, Left, Get Item, Left, Exit.
-                        </details>
-                    </details>
-            - Visit 100P, get Plasma Coil
-                <details>
-                    This is the most difficult and annoying puzzle in the game. There are 10 rooms that you reach randomly with each exit click. There are two dials to turn that need to be activated by certain configurations of two Valves, one of which needs to be placed from the inventory. It's all coordinated visually by a device with two small lights on two labeled columns and two labeled transmitter horns. Horns correspond with dials and columns correspond with valves. Set the valves so that the two lights are even with a horn, forming an electric arc. Turn the dial for that horn, which should be lit up. Repeat. Find the panel that should now have two green lights on it. Click to get the Plasma Coil. Find the entrance and get out.
-                    <details>
-                    <summary>If you don't even want to try</summary>
-                        This only works if you start with the left light on top and the right light on bottom like how the puzzle starts off. Turn the 'left' (with turnstile symbol pointing left) valve 1 time, turn the 'right' valve 2 times. Activate the dial of the glowing receiver. Turn the 'left' valve 1 time, turn the 'right' valve 3 times. Activate the dial of the glowing receiver. Pick up the item. Find the exit. 
-                        </details>
-                    </details>
-            - Visit 110, get Tile D
-                <details>
-                    Left of the teleporter is a socket for the Plasma Canister. Use it to access a broken karma portal. Fix it with the Karma Stabiliser. Enter to find Tile D.
-                    </details>
-            - Visit 011P, get Plasma Coil
-                <details>
-                    To the right of the shrine is a broken passage. Fix it with the Karma Stabiliser, enter the portal and collect the Coil.
-                    </details>
-            - Visit 000, get Tile C
-                <details>
-                    To the right of the teleporter is a broken wall. Fix it with the Karma Stabiliser to access Tile C
-                    </details>
-            - Visit 000P, get Tile B
-                <details>
-                    Head through the area to the karma portal. Head right to some broken bits in the air. Fix them with the Karma Stabiliser to access Tile B. You'll have to exit the way you came, since the elevator is gone.
-                    </details>
-            - Return to docks, get Tile A, enter Lighthouse
-                <details>
-                    Exit the ship. The wall near the Light Sphere is broken. Fix it with the Karma Stabiliser to access Tile A. Enter the building, go up then take the stairs down. They're broken, but you can fix them. Insert each Tile to enter the door. Insert each Coil and click the screen to call the ladder. Enter the vent and climb the ladder to reach the lighthouse.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            <p>Secret 1 is in a vault. An item for Secret 10 is in a vault, but you may need to get it on the way out to if you're worried about inventory space. Secret 7 is in the loop. Secret 8 is in the lab, as is the other item for Secret 10. Secret 10 is now reachable. Secret 5 is on the way to Tile B. Secret 9 is at the docks.
-            </details>
-        </details>
-    <details>
-    <summary>Exit the Lighthouse</summary>
-        <p>There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
-        <details>
-        <summary>Step-by-step</summary>
-            - Get the Portable Light Crown from the ship
-                <details>
-                    The top of the ship is up from the three way pipe. Insert the Id Card and climb the ladder to get the Crown.
-                    </details>
-            - Visit 110P, get the Portable Light Crown Holder
-                <details>
-                    Right of the teleporter are a couple of fuse sockets. Insert the Fuse in one and take the Holder from the other.
-                    </details>
-            - If you don't have it yet, get the last Light Sphere
-                <details>
-                    It's in the yellow rooms through the back door of 000
-                    </details>
-            - Return to the lighthouse to see the ending
-                <details>
-                    Go back to the docks and under the building to the lighthouse. Insert the Holder in the fuse socket, the Crown in the Holder, and the Sphere in the Crown. Click to complete the game and see the ending.
-                    </details>
-            </details>
-        <details>
-        <summary>Secrets</summary>
-            Visit the secret vault when you're nearby. You can use all the secret balls to reveal history messages, and a final 'Thank You' from creator Mateusz Skutnik
-            </details>
+    5. Activate the Portal
+      - <details>
+        With the Vector Finders selected, click each socket with a red light to insert the Vector Finder. The portal will glow blue.
         </details>
     </details>
+  - <details><summary>Secrets</summary>
+    Secret 1 is in the vault, you'll be back later, so no pressure. An item for accessing the secret room is here.
+    </details>
+  </details>
+3. <details><summary>Complete the Ladder</summary>
+  For this we need 3 Ladder Steps, each in a different teleport location. One is, as you've guessed, behind the portal we just activated. While we're there, we'll save ourselves a trip by getting a rune and activating Shiva's emergency exit protocol. The second Step is a quick grab like the Vector Finders, but we'll collect a paper with a hint while we're there. The third Step will take some work, since we need to gain access to the powered portal to reach it. 
+  - <details><summary>Step-by-step</summary>
+    1. Enter the portal at 110, find the crawl vents and rune paper.
+      - <details><summary>Hint</summary>
+        Go left, click to open, left again for rune
+        </details>
+    2. Enter the left vent, then the right, collecting everything
+      - <details><summary>Hint</summary>
+        Both vents only have a few rooms. The left one is easy, collect the Plasma Charge, click to deactivate the security grid, and collect the Block Removal Tool. The right one needs the Removal Tool to get the center mechanism working, then there's a wheel in rooms to rotate it. Click once when going through, 3 times when going back. Collect the Plasma Charge in the first room, Ladder Step in the second, and Hatch Valve and Karma Vial in the third.
+        </details>
+    3. Enter the Hatch right of the portal, activate Shiva's emergency protocol
+      - <details><summary>Hint</summary>
+        It's high up on the wall. Connect the Hatch Valve and open it. Inside, place the three Plasma Charges in the box and click the screen to deactivate the barrier. If you're missing a Charge, get it from 011. Click the large screen and click the protocol toggle to change it.
+        </details>
+    4. Visit 111, collect the Ladder Step and paper with Hieroglyphics
+      - <details><summary>Hint</summary>
+        </details>
+        Step is far right of teleporter, paper is far left.
+    5. Visit 010, activate the drill
+      - <details><summary>Hint</summary>
+        At the far left of the teleporter is a handle, connect it to the drill and open both handles. Pull the lever you just passed, then come back and pull the handled cord to activate the drill
+        </details>
+    6. Grab items underground and use them there to find the portal
+      - <details><summary>Hint</summary>
+        Enter the hole right of the teleporter, collect the Range Confirmator. Enter the drill hole, place the Confirmator in one of the sockets. Get the Air Lock Handle in the bottom right and use it to open the Lock at the bottom left. Get the other Confirmator and the rune paper behind it. Place the Confirmator in the other socket. Activate the hatch in the other hole, then return to the hatch to find the portal beneath.
+        </details>
+    7. Enter the portal, collect the Ladder Step
+      - <details><summary>Hint</summary>
+        Grab the Canister powering the portal blocking your path and proceed inside the building. The Ladder Step is down the stairs and to the left.
+        </details>
+    8. Visit 101 again, grab the rune paper, enter the portal, finish the Ladder
+      - <details><summary>Hint</summary>
+        Go up to the second ledge this time. If you don't have the Ladder Piston set up, get it from the Ship and set it up. There's a rune paper at the top, then the portal. The ladder is just left of the portal, use the Steps to complete it.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    The Secret Vault is the door labeled S3C, but you can't get in yet
+    </details>
+  </details>
+4. <details><summary>Acquire the Second Light Sphere</summary>
+  The first sphere is just beyond the ladder in 101P, but this is the 'harder' one to get. If you found the 'easy' one first, see 'Complete the Ladder' above to access this one. Use the Light Sphere to access the pod, and collect the other 4 items in this area. There are no more puzzles here. Avoid the paper. It has a hint for the end of the game, but it will fill an extra inventory slot so it's not worth it unless you're collecting them. After this area we'll grab the other Cog Wheel, and go collect the 'easy' Sphere. We waited so that we can complete that entire area, including past the portal, in one trip!
+  - <details><summary>Step-by-step</summary>
+    1. Collect 4 items in 101P
+      - <details><summary>Hint</summary>
+        There's a Root Finder left of the ladder. Use the Light Sphere to access the pod. There's a Cap in the hatch and a Cog up above. The Coil is next to the portal out.
+        </details>
+    2. Visit 011, the route has changed, and there's a Cog Wheel nearby
+      - <details><summary>Hint</summary>
+        Enter the busted tube and head into the lower sphere. Use the Insulator Cap on the mechanism to avoid getting locked in. Head into the large sphere and take the ladder down to get the Cog Wheel. If there's no ladder, activate it in 110P. If you don't have the Plasma Charge you need, it's at the left of this large sphere. The instructions are in 'Complete the Ladder' above.
+        </details>
+    3. Visit 001, reach the portal
+      - <details><summary>Hint</summary>
+        You should already have the Cog you need, but you'll need the other one in a minute so lets get it. There's a totem right of the teleporter. Go up twice to find the hint papers for it. They are Hieroglyphics and repeated symbols show you how to line up the papers. If you don't have the third one already, you can get it from 111, but it would be easier now to just try all the options for the last symbol. The box up and to the left will be open if all the symbols are correct. Collect the large Cog Wheel and use it in the nearby mechanism to lower the ladder. There are two, but the Cog only fits in the correct one. Follow the ladder down to reach the portal.
+        </details>
+    4. Collect 3 items past the portal, including the Light Sphere
+      - <details><summary>Hint</summary>
+        The Light Sphere is visible, and the small Cog Wheel is in the tub. 
+        Clear the metal plates on the far right to access another portal. Use the Root Path Finder (described above) to reach the Data Tape.
+        </details>
+    5. Finish up the area by collecting the last 2 items
+      - <details><summary>Hint</summary>
+        Exit the portal and use the Cogs (described above) in the other mechanism. Head down to the jackal head and click until it brings you to the other one. There's a ladder down to a Portal Charge, and a device that takes the Karma Vial and gives a Stone Grape when the third button from the top is clicked. If you don't have the Karma Vial, get it from the tunnels left of 110P. Use the Jackal to get back to the teleporter.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    Nothing here
+    </details>
+  </details>
+5. <details><summary>Activate the '000' Powered Portal</summary>
+  By now you've seen most of the areas, and we'll see most of the rest for this objective. The goal is to make use of your items to get 3 Portal Stabilisers and a Portal Charge. We have to visit one of two locations twice to finish up, so we'll pick the one that's quicker. Depending on how you used the first Light Sphere, you may have different items, so the first step is to use the second Sphere to get caught up.
+  - <details><summary>Step-by-step</summary>
+    1. If you haven't yet, use the Light Sphere at 101P, then finish 001
+      - <details><summary>Hint</summary>
+        This is described above in 'Acquire the Second Light Sphere'. The end result should be: Insulator Cap, Coil, Portal Charge, Stone Grape, Data Tape
+        </details>
+    2. Use the other Sphere in 111, get the Portal Stabiliser in 111P
+      - <details><summary>Hint</summary>
+        You can use the Sphere down the right ladder. You get a Glyph that powers the portal. There's only one thing to do in 111P, go left and up the stairs to plug in the Coil and find the Stabiliser at the end of the wire.
+        </details>
+    3. Quick stop at 101 to drop off the Data Tape
+      - <details><summary>Hint</summary>
+        That big computer on the ledge needs it
+        </details>
+    4. Visit 011P, get Stabiliser, Grape, and Skull
+      - <details><summary>Hint</summary>
+        If you can't get there, use the Insulator Cap in the lower sphere to enter the left sphere. There's a Grape Stone in the box on the floor, a Skull in one of the rooms, and a Stabiliser in another.
+        </details>
+    5. Quick stop at 101 to drop off 2 Grape Stones
+      - <details><summary>Hint</summary>
+        The ox statue to the left needs completion
+        </details>
+    6. Visit 110 to get the Stabiliser, drop off Canister
+      - <details><summary>Hint</summary>
+        Go right from the teleporter. The door left of the portal door has the Stabiliser. Left from the teleporter is a socket for the Plasma Canister. Take the short detour if you're collecting secrets, it will save an inventory space.
+        </details>
+    7. Activate the 000 Portal
+      - <details><summary>Hint</summary>
+        Actually, don't do it yet. Save the trip and start the next walkthrough section to get the clue first. It's a big milestone so it deserved to be written here... You have all the items, so head right and down from the teleporter to reach the portal. Plug in the 3 Stabilizers and Portal Charge, then press the lever to activate the portal.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later.
+    </details>
+  </details>
+6. <details><summary>Open the Back Door to '000'</summary>
+  The puzzles here are mostly local, so enter the portal and keep pressing forward. There's a place to backtrack at the beginning, so we'll get the last rune paper first to minimize that. There are a bunch of items to get just before reaching the door, so it's best to get them now.
+  - <details><summary>Step-by-step</summary>
+    1. Visit 100 to get the last rune paper
+      - <details><summary>Hint</summary>
+        Far right of the teleporter there's a ladder up to 33/4. Enter and go right until you see the rune paper on the wall. Go right again to return to the entrance so you can leave. There are puzzles here, but now is not the time to do them. You should have 4 rune papers now. The others are in 101, 110P, and 010.
+        </details>
+    2. Activate the transmitter in the basement
+      - <details><summary>Hint</summary>
+        The portal from 000 is right and down from the teleporter. Head down to get a Light Sphere, then up to use it. Left of the path past that is where you enter the runes. Each input has a different set of runes, so click until you see one that's on your papers. Like the temple totem, nothing will happen here when you set all the runes. Now we backtrack and find the receiver.
+        </details>
+    3. Reach the elevator
+      - <details><summary>Hint</summary>
+        The rune receiver is in 111, down the ladder left of the teleporter. Take the fork and return to the blocked path. Use it to complete the wire, then head around to the box near the area entrance. Flip the switch to lower the ladder. Head back to the ladder. Use the portal below and head left to the elevator.
+        </details>
+    4. Solve the red room puzzles
+      - <details><summary>Hint</summary>
+        Click elevator buttons to reach the red rooms. The puzzles here are all self-contained. Move back and forth between rooms, flipping switches, grabbing items and using them. You'll finish by releasing the glass covering a portal out.
+        - <details><summary>More</summary>
+          You need 4 Levers. One is on the ground. One is accessed by pressing both switches, then retrieving it from the upper right room. For the third, take the Stone Weight from the lower right and put it on the platform in the lower left. Finally, check the notch in the stone wheels. Move the one to line up with the other, and take the Lever from device just left of the exit. Put all the Levers around the exit to access the portal. An efficient path is: right, all down, all up, all left, exit.
+          </details>
+        </details>
+    5. Grab some stuff on your way back
+      - <details><summary>Hint</summary>
+        This is a reminiscing area, with no puzzles left to solve. Go down, left and grab the four white fuses. Then up, left, up to the portal. Before you go, you should get the Valve just left of the portal, and the Light Sphere right and all the way up from the portal.
+        </details>
+    6. Remove the beam from the door to reach 000
+    </details>
+  - <details><summary>Secrets</summary>
+    An item for Secret 10 is near the rune paper, but we don't need it yet and will be back later. Secret 4 is here, you have to backtrack to the red rooms. Items needed for Secrets 4, 5, 6, and 7 are in the yellow rooms.
+    </details>
+  </details>
+7. <details><summary>Fill the Stabiliser with Karma</summary>
+  Now we can satisfy the large capsules that we've seen around the place. That will get us a Stabiliser, which we can then fill to make it useful. The idea is straight forward, but it's a major milestone that involves searching back through places we've been.
+  - <details><summary>Step-by-step</summary>
+    1. If you missed them, get the 4 Fuses and Skull
+      - <details><summary>Hint</summary>
+        The fuses are in the yellow rooms through the back door in 000, the Skull is from 011P
+        </details>
+    2. Visit 111, place fuse
+      - <details><summary>Hint</summary>
+        It's down the ladder left of the teleporter
+        </details>
+    3. Visit 100 33/3, place fuse
+      - <details><summary>Hint</summary>
+        Second storage room right of the teleporter. Go right once from the entrance, place the fuse and return the way you came. Again, there are puzzles here, but we'll get to them later.
+        </details>
+    4. Visit 110, place fuse, get Chip
+      - <details><summary>Hint</summary>
+        The large capsule is through the door right of the teleporter and down the hall. On the other side of that room is a magnifying glass you can use to examine the Skull.
+        </details>
+    5. Visit 110P, place fuse
+      - <details><summary>Hint</summary>
+        Go through the left crawl vent and alternate right and up until you reach the large capsule.
+        </details>
+    6. Return to 000, collect Empty Karma Stabiliser
+      - <details><summary>Hint</summary>
+        It's by the door left of the teleporter.
+        </details>
+    7. Visit 010P, fill Stabiliser 
+      - <details><summary>Hint</summary>
+        There's a security point in the lower level. Move the pedestal with a click and place the Explorer's Chip on it. Click the scanner to proceed. Put the Stabiliser on the lab equipment and turn the dial on the tank to fill it.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    Secret 6 is in the lab.
+    </details>
+  </details>
+8. <details><summary>Enter the Lighthouse</summary>
+  The Stabiliser allows us to enter many new (small) areas. We need to collect 4 Tiles from them, and 2 Plasma Coils. We finally solve the puzzles in the Royal Storage, unless they've been completed along the way.
+  - <details><summary>Step-by-step</summary>
+    1. Visit 100, activate portal
+      - <details><summary>Hint</summary>
+        Explore the vaults looking for Loop Stabilisers and Karma Fuses. They're all 'loops', so doors may not lead where you expect. Start on the right of the teleporter. Down the ladder you can get one of each item pretty easily. The next vault has a Fuse at the right and the portal on the left of the entrance. The next vault has a puzzle to get an item. Set a switch, then activate the corresponding mechanism. Repeat until you get the Stabiliser. The upper vault is hardest to navigate. Solve the puzzle by clicking two different levers, and a panel with a Stabiliser will open. A Fuse is on the ground. Head left of the teleporter to the other vault. Find a Fuse on the ground and use all 4 in a mechanism. Click to activate. Find the Stabiliser in an opened panel. Head right of the teleporter to the first vault. Enter and place the Stabilisers around the portal.
+        - <details><summary>If you're really stuck</summary>
+          33/3:
+              Enter, Left, Dial to '1', Up, Set Device,  Left, Dial to '2', Right, Right, Right, Set Device, Right, Left, Dial to '3', Down, Set Device, Left, Dial to glyph, Down, Down, Get item, Down, Exit.
+          33/4:
+              Enter, Left, Left, Get item, Up, Set Device, Right, Right, Right, Down, Set Device, Up, Left, Get Item, Left, Exit.
+          </details>
+        </details>
+    2. Visit 100P, get Plasma Coil
+      - <details><summary>Hint</summary>
+        This is the most difficult and annoying puzzle in the game. There are 10 rooms that you reach randomly with each exit click. There are two dials to turn that need to be activated by certain configurations of two Valves, one of which needs to be placed from the inventory. It's all coordinated visually by a device with two small lights on two labeled columns and two labeled transmitter horns. Horns correspond with dials and columns correspond with valves. Set the valves so that the two lights are even with a horn, forming an electric arc. Turn the dial for that horn, which should be lit up. Repeat. Find the panel that should now have two green lights on it. Click to get the Plasma Coil. Find the entrance and get out.
+        - <details><summary>If you don't even want to try</summary>
+          This only works if you start with the left light on top and the right light on bottom like how the puzzle starts off. Turn the 'left' (with turnstile symbol pointing left) valve 1 time, turn the 'right' valve 2 times. Activate the dial of the glowing receiver. Turn the 'left' valve 1 time, turn the 'right' valve 3 times. Activate the dial of the glowing receiver. Pick up the item. Find the exit. 
+          </details>
+        </details>
+    3. Visit 110, get Tile D
+      - <details><summary>Hint</summary>
+        Left of the teleporter is a socket for the Plasma Canister. Use it to access a broken karma portal. Fix it with the Karma Stabiliser. Enter to find Tile D.
+        </details>
+    4. Visit 011P, get Plasma Coil
+      - <details><summary>Hint</summary>
+        To the right of the shrine is a broken passage. Fix it with the Karma Stabiliser, enter the portal and collect the Coil.
+        </details>
+    5. Visit 000, get Tile C
+      - <details><summary>Hint</summary>
+        To the right of the teleporter is a broken wall. Fix it with the Karma Stabiliser to access Tile C
+        </details>
+    6. Visit 000P, get Tile B
+      - <details><summary>Hint</summary>
+        Head through the area to the karma portal. Head right to some broken bits in the air. Fix them with the Karma Stabiliser to access Tile B. You'll have to exit the way you came, since the elevator is gone.
+        </details>
+    7. Return to docks, get Tile A, enter Lighthouse
+      - <details><summary>Hint</summary>
+        Exit the ship. The wall near the Light Sphere is broken. Fix it with the Karma Stabiliser to access Tile A. Enter the building, go up then take the stairs down. They're broken, but you can fix them. Insert each Tile to enter the door. Insert each Coil and click the screen to call the ladder. Enter the vent and climb the ladder to reach the lighthouse.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    Secret 1 is in a vault. An item for Secret 10 is in a vault, but you may need to get it on the way out to if you're worried about inventory space. Secret 7 is in the loop. Secret 8 is in the lab, as is the other item for Secret 10. Secret 10 is now reachable. Secret 5 is on the way to Tile B. Secret 9 is at the docks.
+    </details>
+  </details>
+9. <details><summary>Exit the Lighthouse</summary>
+  There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
+  - <details><summary>Step-by-step</summary>
+    1. Get the Portable Light Crown from the ship
+      - <details><summary>Hint</summary>
+        The top of the ship is up from the three way pipe. Insert the Id Card and climb the ladder to get the Crown.
+        </details>
+    2. Visit 110P, get the Portable Light Crown Holder
+      - <details><summary>Hint</summary>
+        Right of the teleporter are a couple of fuse sockets. Insert the Fuse in one and take the Holder from the other.
+        </details>
+    3. If you don't have it yet, get the last Light Sphere
+      - <details><summary>Hint</summary>
+        It's in the yellow rooms through the back door of 000
+        </details>
+    4. Return to the lighthouse to see the ending
+      - <details><summary>Hint</summary>
+        Go back to the docks and under the building to the lighthouse. Insert the Holder in the fuse socket, the Crown in the Holder, and the Sphere in the Crown. Click to complete the game and see the ending.
+        </details>
+    </details>
+  - <details><summary>Secrets</summary>
+    Visit the secret vault when you're nearby. You can use all the secret balls to reveal history messages, and a final 'Thank You' from creator Mateusz Skutnik
+    </details>
+  </details>
+</details>
 <details><summary>Secrets</summary>
-    <p>Generally in order of accessibility
-    <p>Progressive spoilers: hint title, area and needed items, detail 
-    <details>
-    <summary>Secret 1<summary>
-        Storage Vault
-        <details>
-            110 32/1 Nothing needed
-            <details>
-                The secret is on the wall by the upper right light in the room with the mechanism you open to get an item. Click the dot that's redder than the rest of the wall.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 2</summary>
-        Tomb
-        <details>
-            111P Nothing needed
-            <details>
-                The secret is in a big pile of sand right of the entry point into the tomb. Click the oddly colored highlight to get it.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 3</summary>
-        Telescope
-        <details>
-            011P Nothing needed
-            <details>
-                Collect two parts of a telescope from rooms in the shrine and assemble them on a mount in another room. Look through the telescope to release the secret.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 4</summary>
-        Sleeping Spoon
-        <details>
-            000 Red area, after completing powered portal
-            <details>
-                Take the Spoon back to the previous area from where you found it and place it on the raised bed. The little door will open revealing a secret.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 5</summary>
-        Basement Box
-        <details>
-            000P, with Pearl
-            <details>
-                Get a Pearl from what looks like a faceless upright clock in the area behind the locked door. Put it in the box just off the main route through the powered portal.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 6</summary>
-        Lab Box
-        <details>
-            110, with Pearl
-            <details>
-                Get a Pearl from what looks like a faceless upright clock in the area behind the locked door of 000. Put it in the box through the left door of the three at the right of 110.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 7</summary>
-        Loop
-        <details>
-            100P, with 4 Stone Cubes
-            <details>
-                Get four stone cubes from the floor of a room past the locked door in 000. Travel through the loop until you see a grid with missing corners. Place a cube in each corner. Travel through the loop until you see the backing of the grid, with a secret available.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 8</summary>
-        Pillars
-        <details>
-            110, with Karma Stabiliser
-            <details>
-                At the far right of the area are some broken pillars. Repair them with the stabiliser to access the secret.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 9</summary>
-        Entry
-        <details>
-            000 Docks, with Karma Stabiliser
-            <details>
-                Return to the place of your entry to the game, far left of the Docks. Repair the wall to access a karma portal to a little place with a secret.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret 10</summary>
-        First Sight
-        <details>
-            000, with Long Stick and Metal Spring
-            <details>
-                The first is the last! Enter 100 33/4 (top right vault) and go right three times to find a long stick. Go to 110, left along the bridge made using the Plasma Canister. Repair the wall and enter the portal to find a box with a spring inside. Combine the stick and spring by clicking one on the other. Use the stick on the visible secret in the hole to retrieve it.
-                </details>
-            </details>
-        </details>
-    <details>
-    <summary>Secret Vault</summary>
-        Battery
-        <details>
-            110P, Battery
-            <details>
-                Gain access to the vault door during normal game progression. (Find a Hatch Valve in the tunnels to the left of the entry to 110P. Use it on the hatch to the far right of the entry. Enter, and disable the force field with three plasma charges found in the tunnels and 011.) Find a Triple A Battery on the floor under the stairs in 110. At 000 Docks, place the battery in the slot in the ship near the captain's id reader. This opens the door to the secrets vault, at 110P
-                </details>
-            </details>
-        </details>
+Generally in order of accessibility
+
+Progressive spoilers: hint title, area and needed items, detail 
+1. <details><summary>Secret 1</summary>
+  <details><summary>Storage Vault</summary>
+  <details><summary>110 32/1 Nothing needed</summary>
+  The secret is on the wall by the upper right light in the room with the mechanism you open to get an item. Click the dot that's redder than the rest of the wall.
+  </details></details></details>
+2. <details><summary>Secret 2</summary>
+  <details><summary>Tomb</summary>
+  <details><summary>111P Nothing needed</summary>
+  The secret is in a big pile of sand right of the entry point into the tomb. Click the oddly colored highlight to get it.
+  </details></details></details>
+3. <details><summary>Secret 3</summary>
+  <details><summary>Telescope</summary>
+  <details><summary>011P Nothing needed</summary>
+  Collect two parts of a telescope from rooms in the shrine and assemble them on a mount in another room. Look through the telescope to release the secret.
+  </details></details></details>
+4. <details><summary>Secret 4</summary>
+  <details><summary>Sleeping Spoon</summary>
+  <details><summary>000 Red area, after completing powered portal</summary>
+  Take the Spoon back to the previous area from where you found it and place it on the raised bed. The little door will open revealing a secret.
+  </details></details></details>
+5. <details><summary>Secret 5</summary>
+  <details><summary>Basement Box</summary>
+  <details><summary>000P, with Pearl</summary>
+  Get a Pearl from what looks like a faceless upright clock in the area behind the locked door. Put it in the box just off the main route through the powered portal.
+  </details></details></details>
+6. <details><summary>Secret 6</summary>
+  <details><summary>Lab Box</summary>
+  <details><summary>110, with Pearl</summary>
+  Get a Pearl from what looks like a faceless upright clock in the area behind the locked door of 000. Put it in the box through the left door of the three at the right of 110.
+  </details></details></details>
+7. <details><summary>Secret 7</summary>
+  <details><summary>Loop</summary>
+  <details><summary>100P, with 4 Stone Cubes</summary>
+  Get four stone cubes from the floor of a room past the locked door in 000. Travel through the loop until you see a grid with missing corners. Place a cube in each corner. Travel through the loop until you see the backing of the grid, with a secret available.
+  </details></details></details>
+8. <details><summary>Secret 8</summary>
+  <details><summary>Pillars</summary>
+  <details><summary>110, with Karma Stabiliser</summary>
+  At the far right of the area are some broken pillars. Repair them with the stabiliser to access the secret.
+  </details></details></details>
+9. <details><summary>Secret 9</summary>
+  <details><summary>Entry</summary>
+  <details><summary>000 Docks, with Karma Stabiliser</summary>
+  Return to the place of your entry to the game, far left of the Docks. Repair the wall to access a karma portal to a little place with a secret.
+  </details></details></details>
+10. <details><summary>Secret 10</summary>
+  <details><summary>First Sight</summary>
+  <details><summary>000, with Long Stick and Metal Spring</summary>
+  The first is the last! Enter 100 33/4 (top right vault) and go right three times to find a long stick. Go to 110, left along the bridge made using the Plasma Canister. Repair the wall and enter the portal to find a box with a spring inside. Combine the stick and spring by clicking one on the other. Use the stick on the visible secret in the hole to retrieve it.
+  </details></details> </details>
+11. <details><summary>Secret Vault</summary>
+  <details><summary>Battery</summary>
+  <details><summary>110P, Battery</summary>
+  Gain access to the vault door during normal game progression. (Find a Hatch Valve in the tunnels to the left of the entry to 110P. Use it on the hatch to the far right of the entry. Enter, and disable the force field with three plasma charges found in the tunnels and 011.) Find a Triple A Battery on the floor under the stairs in 110. At 000 Docks, place the battery in the slot in the ship near the captain's id reader. This opens the door to the secrets vault, at 110P
+  </details></details></details>
 </details>
 
 Thanks:
