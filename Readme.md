@@ -16,20 +16,18 @@ Complete Walkthrough
 	<p>Enjoy!
 </details>
 <details><summary>Hints</summary>
-	<ul>
-	<li>You're not stuck.</li>
-	<li>Really, you're not stuck. The ending is reachable from any situation.</li>
-	<li>The secrets are also reachable from any situation.</li>
-	<li>If an item came from a device, it probably goes into a similar device.</li>
-	<li>Mechanisms with little red and green lights need to be activated elsewhere.</li>
-	<li>Pick up everything. There are no useless items.</li>
-	<li>There are a few useless mechanisms.</li>
-	<li>Most mechanisms have visual clues for how to activate them. Like missing pieces.</li>
-	<li>If a mechanism stops working, you don't need it any more.</li>
-	<li>Some obvious items are for non-obvious secrets. Progress is better than completion.</li>
-	<li>There are some things you'll understand early, but can't be solved until much later.</li>
-	<li>All ten secrets are small red balls. Some are hidden in "plain sight".</li>
-	</ul>
+- You're not stuck.
+- Really, you're not stuck. The ending is reachable from any situation.
+- The secrets are also reachable from any situation.
+- If an item came from a device, it probably goes into a similar device.
+- Mechanisms with little red and green lights need to be activated elsewhere.
+- Pick up everything. There are no useless items.
+- There are a few useless mechanisms.
+- Most mechanisms have visual clues for how to activate them. Like missing pieces.
+- If a mechanism stops working, you don't need it any more.
+- Some obvious items are for non-obvious secrets. Progress is better than completion.
+- There are some things you'll understand early, but can't be solved until much later.
+- All ten secrets are small red balls. Some are hidden in "plain sight".
 </details>
 <details><summary>Descriptions Walkthrough</summary>
 	<p>This takes you through the game, pointing out clues. It's more commentary than directions, so it's good if you want vague hints, or want to read about a previous section to see if you missed an obscured clue. The back story is left out, but you're led to in-game papers that describe it. Secrets are dealt with as if they were normal game items, but more vague and left out of the spoiler hints. This walkthrough is set up as if it's telling the protagonist's story. Read the Efficiency Walkthrough section if you need clearer guidance.
@@ -41,31 +39,31 @@ Complete Walkthrough
 		<ol>
 		<li><details><summary>Docks</summary>
 			<p>We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
-			<ul><li><details><summary>Hint</summary>
+			<details><summary>Hint</summary>
 				Put the Light Sphere in the circular device to gain access to the building.
-			</details></li></ul>
+			</details>
 		</details></li>
-		<li><details><summary>Control Room<summary>
+		<li><details><summary>Control Room</summary>
 			<p>This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
-			<ul><li><details><summary>Hint</summary>
+			<details><summary>Hint</summary>
 				Click the lever marked '3' to move the ladder to the ship.
-			</details></li></ul>
+			</details>
 		</details></li>
 		<li><details><summary>Ship</summary>
 			<p>We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
-			<ul><li><details><summary>Hint</summary>
+			<details><summary>Hint</summary>
 				Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
-			</details></li></ul>
+			</details>
 			<p>The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
-			<ul><li><details><summary>Hint</summary>
+			<details><summary>Hint</summary>
 				The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
-				</details></li></ul>
+			</details>
 		</details></li>
 		<li><details><summary>Old House</summary>
 			<p>We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
-			</details></li>
-	</details>
-	<details><summary>Chapter 2: Grand Tour</summary>
+		</details></li>
+	</details></li>
+	<li><details><summary>Chapter 2: Grand Tour</summary>
 		<p>Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
 		<p>Main Areas
 		<details>
@@ -216,9 +214,8 @@ Complete Walkthrough
 				The Coil is in 101P
 				</details>
 			</details>
-		</details>
-	<details>
-	<summary>Chapter 3: Down the Rabbit Hole and Back</summary>
+	</details></li>
+	<li><details><summary>Chapter 3: Down the Rabbit Hole and Back</summary>
 		<p>This part of the game is again more linear, with a little backtracking. Explore the oldest sections of Submachine games in order to open up the rest of the options. Don't be afraid when the exit disappears on you. You'll find another way out to end this part of the game.
 		<details>
 		<summary>000P Submachine 2: The Lighthouse</summary>
@@ -236,9 +233,8 @@ Complete Walkthrough
 				</details>
 			<p>Now this is familiar! All the puzzles here are just as we left them, but more broken apart and moldy. It must have been real after all! Well, lets collect all the items from before, maybe they'll be useful outside. There's a portal where the original exit was. The wisdom crystal is missing of course, but there's another Light Sphere in its place. Maybe they 'grow back' after a long enough time? Continuing to retrace our steps leads us back to the old house. Did we come from here originally?
 			</details>
-		</details>
-	<details>
-	<summary>Chapter 4: Cleaning Up the Mess</summary>
+	</details></li>
+	<li><details><summary>Chapter 4: Cleaning Up the Mess</summary>
 		<p>This part of the game is about traveling around, dealing with all the unfinished business you've noticed along the way. Find a way to reconstruct damaged sections of the world. Collect and use all the secrets now. Reach the giant bulb at the top of the lighthouse to move on to the last part.
 		<details>
 		<summary>Find a tool</summary>
@@ -262,9 +258,8 @@ Complete Walkthrough
 				The tiles are in repaired karma portals in 000, 000P, 110, docks.
 				</details>
 			</details>
-		</details>
-	<details>
-	<summary>Chapter 5: Leaving the Submachine</summary>
+	</details></li>
+	<li><details><summary>Chapter 5: Leaving the Submachine</summary>
 		<p>Almost done! The karma doorway leads to the top of the lighthouse. The items in the there are used to acquire the pieces of the final mechanism. It's not very hard either. Just don't activate it if you want to try to get all the secrets. You have to start over from the beginning once you see the ending.
 		<details>
 		<summary>Enter the Lighthouse (Submachine 2)</summary>
@@ -737,10 +732,10 @@ Complete Walkthrough
 
 Thanks:
 -------
-	- JayIsGames - For hosting and informing me of this game
-	- JayIsGames commenter lordofdark - For reference maps and loop info
-	- Other commenters - For the secrets I missed
-	- Creator Mateusz Skutnik - For years of great service to gamers
+- JayIsGames - For hosting and informing me of this game
+- JayIsGames commenter lordofdark - For reference maps and loop info
+- Other commenters - For the secrets I missed
+- Creator Mateusz Skutnik - For years of great service to gamers
 
 
 
