@@ -1,0 +1,428 @@
+I - Internal, use before using teleporter
+E - External
+K - Keep for later or forever
+M - Mechanism, changes something
+A - Access new area from here
+C - Click to pass
+L - Lever, click to change access
+V - Visual, status of other mechanisms, possibly click to finish
+H - Hint, kept paper
+S - Secret
+R - Read
+
+
+000 - Northern Docks
+=====================
+Take0: "Backpack", "Ladder Piston"
+With1 "Karma Stabiliser", "Tile B", "Tile C", "Tile D", "Plasma Coil" x2: "Fuse" (bulb) 
+With2 1, [portable light stuff x3]: (Ending Scene)
+>
+	I "Light Sphere" -> A (light crown)
+	A (light crown): I "Light Sphere"
+		K "Backpack"
+		M (Levers): 0010
+			I "Ship Id Number" -> M (dispenser)
+		A (dispenser): I "Ship Id Number"
+			I "Bottle Fuse" -> M (generator)
+		A (walkway): 010P K "Karma Stabiliser"
+			A (tile lock): ["Tile N" x4]
+				R (info)
+				M (ladder security): ["Plasma Coil" x2], C
+					A (Lighthouse Karma Portal)
+	M (generator): I "Bottle Fuse", C (button)
+		I "Door Valve" -> M (door)
+		E "Ladder Piston" -> 101 A (piston)
+		A (door): I "Door Valve", C (Door Valve)
+			A (karma portal to House)
+		S (secret door lock): 110 S "Triple A Battery"
+			110P A (S3C door)
+		A (id reader): 000 E "Id Card"
+			R (info)
+			E "Portable Light Crown" -> 000 M (lighthoust fuse)
+	A (start karma): 010P K "Karma Stabiliser"
+		S (Secret) -> 110P A (secret vault)
+	A (wall karma): 010P K "Karma Stabiliser"
+		I "Tile A"
+
+000 - Lighthouse (Sub 2)
+========================
+>
+	A (Docks Karma Portal)
+	R (history)
+	M (large bulb) portal to Loop
+	I "Id Card" -> 000 A (card reader)
+	M (lighthouse fuse): 110P E "Portable Light Crown Converter", 000 E "Portable Light Crown", 000 E "Light Sphere", C
+		A (Ending Scene)
+	E "Fuse"(bulb) -> 110P M (fuse outlets)
+
+000 - Fancy House
+=================
+Take0: None
+With1 ["Portal Stabiliser" x3], "Portal Charge", [(rune) x4]: 111 V (receiver)
+With2 1, "Fork": "Fuse" x4, "Light Sphere", "Valve"
+With3 [A (large capsule) x4]: "Empty Karma Stabiliser"
+With4 "Karma Stabiliser": "Tile C", "Tile B"
+>
+	A (karma portal to Docks)
+	A (room): C (hatch), C (ladder)
+		S "Long Stick with Spring": 100 S "Long Stick", 110 S "Metal Spring"
+		S (hole in floor): 000 S "Long Stick with Spring"
+			S (Secret) -> 110P A (secret vault)
+		A (room): C (beam), C (door)
+			A (teleporter): C (button)
+			A (portal housing): ["Portal Stabiliser" x3], 0001 E "Portal Charge"
+				A (Lighthouse portal)
+			V (large capsule): [M (large Capsule) x4]
+				E "Empty Karma Stabiliser"
+			A (brick wall karma): 010P K "Karma Stabiliser"
+				E "Tile C" -> 000 A (tile lock)
+			A (locked door): find other side
+				A (submachine portal)
+
+000P - Under the Lighthouse (Sub 2)
+-----------------------------------
+>
+	I "Light Sphere" -> A (light crown)
+	M (plug box): M (broken wire), C
+	A (light crown): I "Light Sphere"
+		S (secret box): 000 E "Pearl"
+			S (Secret) -> 110P A (secret vault)
+		M (transmitter): 010 H (rune), 100 H (rune), 101 H (rune), 110P H (rune)
+		M (broken wire): 111 E "Fork
+		M (ladder extender): M (plug box)
+			R (info)
+			R (history)
+			A (wall karma): 010P K "Karma Stabiliser"
+				E "Tile B"
+			A (Submachine elevator): C
+
+000 - Basement (Sub 1)
+------------------------
+>
+	M (pointng wheel): C xN
+	V (wheel case): M (pointing wheel)
+	V (wall circle): V (wheel case)
+		I "Unlock Lever" -> M (glass case)
+	M (raised bed): "Spoon"
+		S (Secret) -> 110P A (secret vault)
+	I "Stone Weight" -> M (pressure plate)
+	M (pressure plate): I "Stone Weight"
+		I "Unlock Lever" -> M (glass case)
+	I "Unlock Lever" -> M (glass case)
+	M (switch): C
+	M (switch): C
+	V (wall box): M (switch) x2
+		I "Unlock Lever" -> M (glass case)
+	M (glass case): I "Unlock Lever" x4
+		000 A (locked door): C x2
+		E "Fuse" x4 -> [M (large capsule) x4]
+		S "Stone Cube" -> 100P M (grid)
+		S "Spoon" -> M (raised bed)
+		S "Pearl" x2 -> [M (secret box) x2]
+		E "Light Sphere" -> 000 M (lighthouse fuse)
+		E "Valve" -> 100P L (wheel)
+
+001 - Pyramid
+=============
+Take0: None
+With1 (hieroglyphics) (or not): "Light Sphere"
+With2 "Root Path Finder": "Data Tape"
+With3 ["Cog Wheel" x2]: "Portal Charge"
+>
+	A (teleporter)
+	M (totem): (hiroglyphics) x3 (can get by with 2)
+		V (pedastal)
+	V (pedastal): M (totem)
+		I "Cog Wheel" -> M (lower gearbox)
+	H (hiroglyphics) x2
+	C (left jackel)
+	C (right jackel)
+	M (dimensional storage): 110P E "Karma Vial", 0010000
+		E "Stone Grape" -> 101 M (grape ox)
+	L (lower gearbox): I "Cog Wheel" 
+		A (Root portal)
+	L (upper gearbox): 001P I "Cog Wheel", 101P E "Cog Wheel", 011 E "Cog Wheel"
+		E "Portal Charge" -> 000 M (portal housing)
+
+001P - The Root (Sub 5)
+-----------------------
+>
+	E "Light Sphere" -> A 101P (light crown) -or- A 111 (light crown)
+	I "Cog Wheel" -> M (upper gearbox)
+	A (plug): C (metal sheet) x3
+		A (compute node): 101P E "Root Path Finder"
+			E "Data Tape" -> 101 M (console)
+		R (history)
+
+010 - Excavation
+================
+Take0: (rune), "Force Field Plasma Canister", "Ladder Step"
+With1 "Explorer's Chip", "Empty Karma Stabiliser": "Karma Stabiliser"
+>
+	A (teleporter)
+	I "Range Confirmator" -> M (rangefinder)
+	M (hatch opener): M (rangefinder) x2, C (grip)
+	M (lever): 010 (drill step 1)
+	I "Drill Clamp Handle" -> M (drill step 1)
+	M (drill step 1): I "Drill Clamp Handle", C (Handle) x2
+		A (drill step 2): M (lever), C (grip)
+			M (rangefinder): I "Range Confirmator"
+			A (room): C (air lock handle)
+				I "Air Lock Handle"
+				A (hatch): M (hatch opener)
+					A (lab portal)
+			M (air lock): I "Air Lock Handle", C (air lock handle)
+				I "Range Comfirmator" -> M (rangefinder)
+				H (rune) -> 000P M (transmitter)
+
+010P - The Lab (Sub 4)
+----------------------
+>
+	E "Force Field Plasma Canister" -> 110 A (bridge generator)
+	A (room): C (Force Field Plasma Canister)
+		R (history)
+		E "Ladder Step" -> 101P A (missing ladder)
+		A (scanner): C (torch pedestal), 110 E "Explorer's Chip"
+			A (karma barrel): 000 K "Empty Karma Stabiliser", C
+				K "Karma Stabiliser"
+
+011 - Shiva
+===========
+Take0: "Plasma Charge"
+With1 "Insulator Cap": "Skull", "Stone Grape"
+With2 1, 101 A (console): "Portal Stabiliser"
+With3 1, 110P A (shiva exit): "Cog Wheel"
+With4 1, "Karma Stabiliser": "Plasma Coil"
+>
+	A (teleporter)
+	L (security switch): 101P E "Insulator Cap"
+		A (Shrine portal)
+		A (shiva exit): 110P A (shiva exit)
+			E "Cog Wheel"		
+	E "Plasma Charge" -> 110P M (security box)
+
+011P - Shrine (Sub 7)
+---------------------
+>
+	A (pass karma): 010P K "Karma Stabiliser"
+		R (history)
+		E "Plasma Coil"
+	S "Telescope Tube" -> S (telescope mount)
+	S "Telescope Head" -> S (telescope mount)
+	E "Stone Grape" -> 101 M (grape ox)
+	E "Skull" -> 110 A (magnifier)
+	R (history)
+	S (telescope mount): I "Telescope Head", I "Telescope Tube"
+		S (Secret) -> 110P A (secret vault)
+	M (console): C (left lock), C (right lock), 101 M (console)
+		E "Portal Stabiliser" -> 000 M (portal housing)
+
+100 - Royal Storage
+===================
+Take0: (rune), "Vector Finder"
+With1 "Fuse": 000 V (large capsule)
+With2 "Valve": "Plasma Coil"
+>
+	A (teleporter)
+	A (32/1)
+	A (33/1)
+	A (33/2)
+	A (33/3)
+	A (33/4)
+
+100Loops
+--------
+>
+	32/1 - Random
+	-------------
+	Take1: "Vector Finder"
+	With1 ["Karma Fuse" x4]: "Loop Stabiliser"
+	>
+		S (Secret) near light by (item holder)-> 110P A (secret vault)
+		I "Karma Fuse" -> M (fuse receptacle)
+		E "Vector Finder" -> 110 A (portal array)
+		M (fuse receptacle): I "Karma Fuse" x4, C
+		M (item holder): M (fuse receptacle)
+			I "Loop Stabiliser"
+
+	33/1 - Single Loop
+	------------------
+	Take1: "Loop Stabiliser", "Karma Fuse"
+	>
+		I "Loop Stabiliser" -> A (portal housing)
+		I "Karma Fuse" -> M (fuse receptacle)
+
+	33/2 - Hall
+	-----------
+	Take1: "Karma Fuse"
+	>
+		I "Karma Fuse" -> M (fuse receptacle)
+		A (portal housing): I "Loop Stabiliser" x4
+			A (Loop Portal)
+
+	33/3 - Four Loops
+	-----------------
+	Take1: "Loop Stabiliser"
+	>
+		M (large capsule): 000 E "Fuse"
+		R (history)
+		L (switch chooser)
+		M (switch 1): L (switch chooser) at 1, C
+		M (switch 2): L (switch chooser) at 2, C
+		M (switch 3): L (switch chooser) at 3, C
+		A (item holder): M (switch n) x3, L (switch chooser) down
+			I "Loop Stabiliser" -> A (portal housing)
+
+	33/4 - Two Branches
+	-------------------
+	Take1: (rune), "Karma Fuse", "Loop Stabiliser"
+	>
+		I "Karma Fuse" -> M (fuse receptacle)
+		H (rune) -> 000P (transmitter)
+		M (upper switch): C
+		M (lower switch): C
+		A (item holder): M (upper switch), M (lower switch), C
+			I "Loop Stabiliser" -> A (portal housing)
+		S "Long Stick" -> combine with "Metal Spring"
+
+100P - The Loop (Sub 3)
+-----------------------
+>
+	S (grid): 000 E "Stone Cube" x4
+	S (grid backing): S (grid)
+		S (Secret) -> 110P A (secret vault)
+	L (valve left)
+	L (valve right): 000 E "Valve"
+	V (projectors): L (valve left), L (valve right)
+	M (projector o): V (projectors) energy lined up at 'o'
+	M (projector v): V (projectors) energy lined up at 'v'
+	V (item holder): M (projector o), M (projector v)
+		E "Plasma Coil" -> 000 A (plasma outlet)
+
+101 - Cliff Side
+================
+Take0: "Vector Finder"
+With1 "Ladder Piston": (rune), "Coil"
+With2 1, "Ladder Step" x3: "Light Sphere", "Root Path Finder"
+With3 1, "Light Sphere": "Insulator Cap", "Cog Wheel"
+With4 "Data Tape": 011P A (console)
+With5 "Stone Grape" x2: 110 A (ox box)
+>
+	A (teleporter)
+	M (grape ox): 011P E "Stone Grape", 001 E "Stone Grape"
+		110 V (ox box)
+	R (history)
+	A (room): C (piston)
+		M (console): C (left lock), C (right lock), 001P E "Data Tape"
+			001P A (console)
+		E "Vector Finder" -> 110 A (portal array)
+		A (piston): 000 E "Ladder Piston", C
+			A (room): C (piston)
+			H (rune) -> 000P M (transmitter)
+			A (Plan Portal)
+
+101P - The Plan (Sub 8)
+-----------------------
+>
+	E "Coil" -> 111P M (coil outlet)
+	A (missing ladder): E "Ladder Step" x3
+		E "Light Sphere" -> A 101P (light crown) -or- A 111 (light crown)
+		H (ending)
+		E "Root Path Finder" -> 001P A (compute node)
+	A (light crown): E "Light Sphere"
+		A (room): C (hatch)
+			E "Insulator Cap" -> 011 L (security switch)
+		E "Cog Wheel" -> 001 L (upper gearbox)
+
+110 - Murtaugh's Lab
+====================
+Take0: S "Triple A Battery"
+With1 "Vector Finder" x2: (rune), "Ladder Step", "Karma Vial"
+With2 "Skull": "Explorer's Chip"
+With3 1, "Plasma Charge": 011 A (shiva exit)
+With4 101 A (ox box): "Portal Stabiliser"
+With5 "Fuse": 000 V (large capsule)
+With6 1, "Fuse": 000 V (large capsule)
+With7 "Force Field Plasma Canister", "Karma Stabiliser": "Tile D"
+With8 1, "Fuse"(bulb): "Portable Light Crown Converter" 
+>
+	A (teleporter)
+	R (info)
+	S "Triple A Battery" -> 000 S (secret lock)
+	I "Vector Finder" -> M (portal array)
+	A (bridge generator): 010P E "Force Field Plasma Canister"
+		A (floating wall karma): 010P K "Karma Stabiliser"
+			E "Tile D" -> 000 A (tile lock)
+			S "Metal Spring" -> combine with "Long Stick"
+	A (room): C (door barricades) x9
+		A (magnifier): 011P E "Skull"
+			E "Explorer's Chip" -> 010P M (torch pedestal)
+		A (desk cupboard): C
+			I "Vector Finder"
+		M (large capsule): 000 E "Fuse"
+	S (broken pillars): 010P K "Karma Stabiliser"
+		S (Secret) -> 110P A (secret vault)
+	A (portal array): E "Vector Finder" x5
+		A (edge portal)
+	S (secret box): 000 E "Pearl"
+		S (Secret) -> 110P A (secret vault)
+	V (ox box): 101 M (grape ox)
+		E "Portal Stabiliser" -> 000 M (portal housing)
+	I "Vector Finder" -> M (portal array)
+
+110P - The Edge (Sub 6)
+-----------------------
+>
+	A (fuse outlets): 000 E "Fuse"(bulb)
+		E "Portable Light Crown Converter" -> 000 M (lighthouse fuse)
+	A (hatch door): I "Hatch Valve", C
+		A (security box): 011 E "Plasma Charge", I "Plasma Charge" x2, C (security display)
+			M (emergency display): C
+				011 A (shiva exit)
+			S (S3C door): 000 M (secret door lock)
+				A (secret vault)
+					R (history) x4
+					R (thanks)
+	H (rune) -> 000P M (transmitter)
+	A (left tunnel): C
+		A (room): C (security display)
+			I "Block Removal Tool"
+		I "Plasma Charge" -> M (security box)
+		M (large capsule): 000 E "Fuse"
+	A (right tunnel): C
+		A (robot storage): C
+			I "Plasma Charge" -> M (security box)
+		L (tunnel chooser): M (tunnel gear)
+		M (tunnel gear): I "Block Removal Tool"
+			E "Ladder Step" -> 101P A (missing ladder)	
+			L (tunnel chooser)
+			E "Karma Vial" -> 001 A (dimensional storage)
+			I "Hatch Valve"
+
+111 - Monestary
+===============
+Take0: H (Hiroglyphics), "Ladder Step"
+With1 "Light Sphere", "Coil": "Portal Stabiliser"
+With2 000P M (rune reader): "Fork"
+With3 "Fuse": 000 V (large capsule)
+>
+	A (teleporter)
+	H (hieroglyphics)
+	M (portal stand): I "Meditation Glyph"
+		A (tomb portal)
+	E "Ladder Step" -> 101P A (missing ladder)
+	A (light crown): E "Light Sphere"
+		I "Meditation Glyph" -> M (portal stand)
+	V (receiver): 000P M (rune reader)
+		E "Fork" -> 000P (broken wire)
+	M (large capsule): 000 E "Fuse"
+
+111P - Murtaugh's Tomb (Sub 9)
+------------------------------
+>
+	M (coil outlet): 101P E "Coil"
+	V (item storage): M (coil outlet)
+		E "Portal Stabiliser" -> 000 M (portal housing)
+	S (secret) in sand at right -> 110P A (secret vault)
+
+
