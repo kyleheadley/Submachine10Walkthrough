@@ -61,12 +61,10 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     - <details><summary>Hint</summary>
       - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
       </details>
-
     - The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
     - <details><summary>Hint</summary>
       - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
       </details>
-      
     </details>
   4. <details><summary>Old House</summary>
     - We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
@@ -74,6 +72,10 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   </details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
   Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the teleporter to get to areas new to this game. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
+
+
+oh wow it's over
+================
 
   1. <details><summary>001 The Pyramid</summary>
     - There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
