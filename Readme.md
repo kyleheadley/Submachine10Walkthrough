@@ -43,6 +43,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
 
 1. <details><summary>Chapter 1: Where Am I?</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
+
   1. <details><summary>Docks</summary>
     - We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
     - <details><summary>Hint</summary>
@@ -71,6 +72,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   </details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
   Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the teleporter to get to areas new to this game. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
+
   1. <details><summary>001 The Pyramid</summary>
     - There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
     - <details><summary>Hint</summary>
@@ -206,6 +208,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   </details>
 3. <details><summary>Chapter 3: Down the Rabbit Hole and Back</summary>
   This part of the game is again more linear, with a little backtracking. Explore the oldest sections of Submachine games in order to open up the rest of the options. Don't be afraid when the exit disappears on you. You'll find another way out to end this part of the game.
+
   1. <details><summary>000P Submachine 2: The Lighthouse</summary>
     - This place was the real beginning of journey through the Submachine. Now it's so full of this red stuff that we can't go very far. There's a Light Sphere where the wisdom crystal was once. But it was taken, so the light is a mystery. The box with all the wires seems to have blown a fuse or something, since one of the levers is inactive. The path up is blocked, but there's a light crown around to get us to the other side of the room. The ladder won't extend, one of the wires is broken. There's a little box like the one in the lab nearby. There's also a transmitter hooked up to a grid of strange symbols, like the ones we've found on paper.
     - <details><summary>Hint</summary>
@@ -223,6 +226,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   </details>
 4. <details><summary>Chapter 4: Cleaning Up the Mess</summary>
   This part of the game is about traveling around, dealing with all the unfinished business you've noticed along the way. Find a way to reconstruct damaged sections of the world. Collect and use all the secrets now. Reach the giant bulb at the top of the lighthouse to move on to the last part.
+
   1. <details><summary>Find a tool</summary>
     - We're back at the house, and have access to every location and portal. Are there any mysteries we couldn't deal with before that we can now? How about the large capsule right here by the door?
     - <details><summary>Hint</summary>
@@ -246,6 +250,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   </details>
 5. <details><summary>Chapter 5: Leaving the Submachine</summary>
   Almost done! The karma doorway leads to the top of the lighthouse. The items in the there are used to acquire the pieces of the final mechanism. It's not very hard either. Just don't activate it if you want to try to get all the secrets. You have to start over from the beginning once you see the ending.
+  
   1. <details><summary>Enter the Lighthouse (Submachine 2)</summary>
     - Past the doorway is a steel room with a note about entering the Submachine, and what looks like a security system. There are two fuse sockets that may need to be filled.
     - <details><summary>Hint</summary>
@@ -554,7 +559,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 9. <details><summary>Exit the Lighthouse</summary>
   There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
-  
+
   - <details><summary>Step-by-step</summary>
     1. Get the Portable Light Crown from the ship
       - <details><summary>Hint</summary>
@@ -581,57 +586,68 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
 <details><summary>Secrets</summary>
 Generally in order of accessibility
 
-Progressive spoilers: hint title, area and needed items, detail 
+Progressive spoilers: hint title, area and needed items, detail
+
 1. <details><summary>Secret 1</summary>
   <details><summary>Storage Vault</summary>
   <details><summary>110 32/1 Nothing needed</summary>
   The secret is on the wall by the upper right light in the room with the mechanism you open to get an item. Click the dot that's redder than the rest of the wall.
   </details></details></details>
+
 2. <details><summary>Secret 2</summary>
   <details><summary>Tomb</summary>
   <details><summary>111P Nothing needed</summary>
   The secret is in a big pile of sand right of the entry point into the tomb. Click the oddly colored highlight to get it.
   </details></details></details>
+
 3. <details><summary>Secret 3</summary>
   <details><summary>Telescope</summary>
   <details><summary>011P Nothing needed</summary>
   Collect two parts of a telescope from rooms in the shrine and assemble them on a mount in another room. Look through the telescope to release the secret.
   </details></details></details>
+
 4. <details><summary>Secret 4</summary>
   <details><summary>Sleeping Spoon</summary>
   <details><summary>000 Red area, after completing powered portal</summary>
   Take the Spoon back to the previous area from where you found it and place it on the raised bed. The little door will open revealing a secret.
   </details></details></details>
+
 5. <details><summary>Secret 5</summary>
   <details><summary>Basement Box</summary>
   <details><summary>000P, with Pearl</summary>
   Get a Pearl from what looks like a faceless upright clock in the area behind the locked door. Put it in the box just off the main route through the powered portal.
   </details></details></details>
+
 6. <details><summary>Secret 6</summary>
   <details><summary>Lab Box</summary>
   <details><summary>110, with Pearl</summary>
   Get a Pearl from what looks like a faceless upright clock in the area behind the locked door of 000. Put it in the box through the left door of the three at the right of 110.
   </details></details></details>
+
 7. <details><summary>Secret 7</summary>
   <details><summary>Loop</summary>
   <details><summary>100P, with 4 Stone Cubes</summary>
   Get four stone cubes from the floor of a room past the locked door in 000. Travel through the loop until you see a grid with missing corners. Place a cube in each corner. Travel through the loop until you see the backing of the grid, with a secret available.
   </details></details></details>
+
 8. <details><summary>Secret 8</summary>
   <details><summary>Pillars</summary>
   <details><summary>110, with Karma Stabiliser</summary>
   At the far right of the area are some broken pillars. Repair them with the stabiliser to access the secret.
   </details></details></details>
+
 9. <details><summary>Secret 9</summary>
   <details><summary>Entry</summary>
   <details><summary>000 Docks, with Karma Stabiliser</summary>
   Return to the place of your entry to the game, far left of the Docks. Repair the wall to access a karma portal to a little place with a secret.
   </details></details></details>
+
 10. <details><summary>Secret 10</summary>
   <details><summary>First Sight</summary>
   <details><summary>000, with Long Stick and Metal Spring</summary>
   The first is the last! Enter 100 33/4 (top right vault) and go right three times to find a long stick. Go to 110, left along the bridge made using the Plasma Canister. Repair the wall and enter the portal to find a box with a spring inside. Combine the stick and spring by clicking one on the other. Use the stick on the visible secret in the hole to retrieve it.
   </details></details> </details>
+
 11. <details><summary>Secret Vault</summary>
   <details><summary>Battery</summary>
   <details><summary>110P, Battery</summary>
