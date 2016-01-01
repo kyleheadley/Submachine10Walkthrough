@@ -49,7 +49,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     </details>
   </details>
   2. <details><summary>Control Room</summary>
-    his is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
+    This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
     <details><summary>Hint</summary>
     - Click the lever marked '3' to move the ladder to the ship.
     </details>
@@ -61,7 +61,7 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     </details>
     The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
     <details><summary>Hint</summary>
-    - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
+    * The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
     </details>
   </details>
   4. <details><summary>Old House</summary>
@@ -84,12 +84,16 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     </details>
     The drill must have already done its work, because there is equipment down its hole. One of the Range Confirmators is in a socket with a green light. There are two other sockets with red lights. There are two airlocks, but one is missing a handle. We can get past the other one. There's a closed hatch and a bar that looks like a handle.
     <details><summary>Hint</summary>
-    - Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
+    * Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
     </details>
     There's a piece of paper with a some kind of rune on it here, and a large portal beyond the hatch.
   </details>
 
+
+
 </details>
+3. and more...
+
 more
 ----
         <details>
