@@ -43,51 +43,51 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
 1. <details><summary>Chapter 1: Where Am I?</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
   1. <details><summary>Docks</summary>
-    - We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
+    We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
     <details><summary>Hint</summary>
-      - Put the Light Sphere in the circular device to gain access to the building.
-    </details>
+    - Put the Light Sphere in the circular device to gain access to the building.
+      </details>
   </details>
   2. <details><summary>Control Room</summary>
-    - This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
+    This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
     <details><summary>Hint</summary>
-      - Click the lever marked '3' to move the ladder to the ship.
+    - Click the lever marked '3' to move the ladder to the ship.
+      </details>
     </details>
-  </details>
   3. <details><summary>Ship</summary>
-    - We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
+    We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
     <details><summary>Hint</summary>
-      - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
-    </details>
-    - The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
+    - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
+      </details>
+    The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
     <details><summary>Hint</summary>
-      - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
+    - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
+      </details>
     </details>
-  </details>
   4. <details><summary>Old House</summary>
-    - We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
+    We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.
+    </details>
   </details>
-</details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
   Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
   1. <details><summary>001 The Pyramid</summary>
-    - There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
+    There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
     <details><summary>Hint</summary>
-      - The last hieroglyph page is in 111. The Karma Vile for the stone device is in 110P. You get the first Cog Wheel from the box when the totem is set up properly. The other 3 are in 001P, 101P, and 011. 
-    </details>
+    - The last hieroglyph page is in 111. The Karma Vile for the stone device is in 110P. You get the first Cog Wheel from the box when the totem is set up properly. The other 3 are in 001P, 101P, and 011. 
+      </details>
     The ladders both drop down into compartments below. There's a glowing portal down one, and a glowing device down the other. They look useful. 
-  </details>
-  2. <details><summary>010 The Excavation</summary>
-    - Looks like a work site, but the drill is busted. It's turned off and there's a handle in what looks like red sand. It appears to be solid. There's sand on the other side too, but it doesn't fill the hole. There's a machine that seems to open a hatch somewhere. There's a glowing Range Confirmator that may need power.
-    <details><summary>Hint</summary>
-      - Get the handle and put it on the drill. Open the handles and pull both levers to activate it.
     </details>
+  2. <details><summary>010 The Excavation</summary>
+    Looks like a work site, but the drill is busted. It's turned off and there's a handle in what looks like red sand. It appears to be solid. There's sand on the other side too, but it doesn't fill the hole. There's a machine that seems to open a hatch somewhere. There's a glowing Range Confirmator that may need power.
+    <details><summary>Hint</summary>
+    - Get the handle and put it on the drill. Open the handles and pull both levers to activate it.
+      </details>
     The drill must have already done its work, because there is equipment down its hole. One of the Range Confirmators is in a socket with a green light. There are two other sockets with red lights. There are two airlocks, but one is missing a handle. We can get past the other one. There's a closed hatch and a bar that looks like a handle.
     <details><summary>Hint</summary>
-      - Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
+    - Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
+      </details>
+    There's a piece of paper with a some kind of rune on it here, and a large portal beyond the hatch.
     </details>
-    - There's a piece of paper with a some kind of rune on it here, and a large portal beyond the hatch.
-  </details>
 
 
 
