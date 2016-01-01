@@ -562,8 +562,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   - <details><summary>Step-by-step</summary>
     1. Get the Portable Light Crown from the ship
       - <details><summary>Hint</summary>
-        - The top of the ship is up from the three way pipe. Insert the Id Card and climb the ladder to get the Crown.
-        </details>
+        - The top of the ship is up from the three way pipe. Insert the Id Card and climb the ladder to get the Crown.</details>
     2. Visit 110P, get the Portable Light Crown Holder
       - <details><summary>Hint</summary>
         - Right of the teleporter are a couple of fuse sockets. Insert the Fuse in one and take the Holder from the other.
@@ -578,7 +577,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
         </details>
     </details>
   - <details><summary>Secrets</summary>
-    Visit the secret vault when you're nearby. You can use all the secret balls to reveal history messages, and a final 'Thank You' from creator Mateusz Skutnik
+    - Visit the secret vault when you're nearby. You can use all the secret balls to reveal history messages, and a final 'Thank You' from creator Mateusz Skutnik
     </details>
   </details>
 </details>
