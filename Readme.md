@@ -7,8 +7,8 @@ Submachine 10: The Exit
 <summary>Complete Walkthrough</summary>
 	<details>
 	<summary>Intro</summary>
-		Welcome to the final "Submachine" game! The series has spanned 10 episodes in as many years. The creator, Mateusz Skutnik, has finished up with the best art and longest trek so far. I've enjoyed the series greatly, so I wanted to put some work into a good walkthrough for others. Prior experience with Submachine in not necessary, but there are many references to previous games for those who want to look back. 
-
+		Welcome to the final "Submachine" game! The series has spanned 10 episodes in as many years. The creator, Mateusz Skutnik, has finished up with the best art and longest trek so far. I've enjoyed the series greatly, so I wanted to put some work into a good walkthrough for others. Prior experience with Submachine in not necessary, but there are many references to previous games for those who want to look back.
+		
 		The game world consists of 8 major areas, each of which has a portal back to a section of a previous Submachine game. The graphic style is that of the original, but updates were made so that they'd be appropriate to the new game. Most of the game play involves clicking switches, collecting items, and finding out where to put them.
 
 		There are a few parts to this walkthrough. I try to have progressive hints throughout, so that you can figure out as much as possible on your own. Also, each successive part is more detail oriented, so you can look for high level hints in the "Hints" section, detailed directions, you'll need to check out the "Efficiency" section.
