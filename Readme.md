@@ -48,13 +48,13 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     - Put the Light Sphere in the circular device to gain access to the building.
     </details>
   </details>
-  2. <details><summary>### Control Room</summary>
+  2. <details><summary>Control Room</summary>
     his is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
     <details><summary>Hint</summary>
     - Click the lever marked '3' to move the ladder to the ship.
     </details>
   </details>
-  3.<details><summary>Ship</summary>
+  3. <details><summary>Ship</summary>
     We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
     <details><summary>Hint</summary>
     - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
