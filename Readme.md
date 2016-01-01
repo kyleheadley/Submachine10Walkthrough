@@ -52,12 +52,16 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     - <details><summary>Hint</summary>
       - Click the lever marked '3' to move the ladder to the ship.</details></details>
   3. <details><summary>Ship</summary>
-    - We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
-    - <details><summary>Hint</summary>
-      Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.</details>
-    - The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
-    - <details><summary>Hint</summary>
-      - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.</details></details>
+    We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
+
+    <details><summary>Hint</summary>
+    - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.</details>
+
+    The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
+
+    <details><summary>Hint</summary>
+    - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.</details></details>
+    
   4. <details><summary>Old House</summary>
     - We found a karma portal like the ones in previous Submachine games. They'll probably take us to many unusual places. This place seems like an old house. The way is blocked a bit, but nothing too difficult to handle. There's a hole in the floor with a little red ball at the bottom. Looks like something valuable, but we can't reach it. Even if we found a long stick to reach, it's so far down that grabbing it would be a problem. There's some strange equipment around. One large capsule has lights on it and a panel that might open, but it won't and the device seems inactive. The nearby door is shut and not opening. There's another unusual device on a lower level, but it seems to be missing some parts. All the statues are facing some brick structure that seems subtly out of place with the house. It must be important.</details></details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
