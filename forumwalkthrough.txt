@@ -523,7 +523,7 @@ Complete Walkthrough
 				</spoiler>
 			Secrets
 			<spoiler>
-				Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later. Secret 6 is in the box in the lab, but you can't get it yet.
+				Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later.
 				</spoiler>
 			</spoiler>
 		Open the Back Door to '000'
@@ -559,7 +559,7 @@ Complete Walkthrough
 				</spoiler>
 			Secrets
 			<spoiler>
-				An item for Secret 10 is near the rune paper, but we don't need it yet and will be back later. Secret 5 is in the box just off the path, but you have to complete this section to get it. Secret 4 is here, you have to backtrack to the red rooms. Items needed for Secrets 4, 5, 6, and 7 are in the yellow rooms.
+				An item for Secret 10 is near the rune paper, but we don't need it yet and will be back later. Secret 4 is here, you have to backtrack to the red rooms. Items needed for Secrets 4, 5, 6, and 7 are in the yellow rooms.
 				</spoiler>
 			</spoiler>
 		Fill the Stabiliser with Karma
@@ -598,7 +598,7 @@ Complete Walkthrough
 				</spoiler>
 			Secrets
 			<spoiler>
-				This is a good time to get Secret 6 from the lab.
+				Secret 6 is in the lab.
 				</spoiler>
 			</spoiler>
 		Enter the Lighthouse
