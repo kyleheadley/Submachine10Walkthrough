@@ -71,24 +71,27 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
 2. <details><summary>Chapter 2: Grand Tour</summary>
   Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
   1. <details><summary>001 The Pyramid</summary>
-  There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
-            <details>
-                The last hieroglyph page is in 111. The Karma Vile for the stone device is in 110P. You get the first Cog Wheel from the box when the totem is set up properly. The other 3 are in 001P, 101P, and 011. 
-                </details>
-            The ladders both drop down into compartments below. There's a glowing portal down one, and a glowing device down the other. They look useful. 
-            </details>
-        <details>
-        <summary>010 The Excavation</summary>
-            <p>Looks like a work site, but the drill is busted. It's turned off and there's a handle in what looks like red sand. It appears to be solid. There's sand on the other side too, but it doesn't fill the hole. There's a machine that seems to open a hatch somewhere. There's a glowing Range Confirmator that may need power.
-            <details>
-                Get the handle and put it on the drill. Open the handles and pull both levers to activate it.
-                </details>
-            <p>The drill must have already done its work, because there is equipment down its hole. One of the Range Confirmators is in a socket with a green light. There are two other sockets with red lights. There are two airlocks, but one is missing a handle. We can get past the other one. There's a closed hatch and a bar that looks like a handle.
-            <details>
-                Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
-                </details>
-            <p>There's a piece of paper with a some kind of rune on it here, and a large portal beyond the hatch.
-            </details>
+    There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
+    <details><summary>Hint</summary>
+    - The last hieroglyph page is in 111. The Karma Vile for the stone device is in 110P. You get the first Cog Wheel from the box when the totem is set up properly. The other 3 are in 001P, 101P, and 011. 
+    </details>
+    The ladders both drop down into compartments below. There's a glowing portal down one, and a glowing device down the other. They look useful. 
+  </details>
+  2. <details><summary>010 The Excavation</summary>
+    Looks like a work site, but the drill is busted. It's turned off and there's a handle in what looks like red sand. It appears to be solid. There's sand on the other side too, but it doesn't fill the hole. There's a machine that seems to open a hatch somewhere. There's a glowing Range Confirmator that may need power.
+    <details><summary>Hint</summary>
+    - Get the handle and put it on the drill. Open the handles and pull both levers to activate it.
+    </details>
+    The drill must have already done its work, because there is equipment down its hole. One of the Range Confirmators is in a socket with a green light. There are two other sockets with red lights. There are two airlocks, but one is missing a handle. We can get past the other one. There's a closed hatch and a bar that looks like a handle.
+    <details><summary>Hint</summary>
+    - Open the other airlock with the handle, place both Confirmators in the sockets and activate the machine to open the hatch
+    </details>
+    There's a piece of paper with a some kind of rune on it here, and a large portal beyond the hatch.
+  </details>
+
+</details>
+more
+----
         <details>
         <summary>011 Shiva</summary>
             <p>This place consists of three large metal spheres, connected by a large pipe. The pipe is busted open and we can climb inside. Unfortunately, there are security fields blocking access to two of the spheres. We can enter the third, which has some kind of rotating device. Activating it changes some of its lights from red to green and vise versa, but anything but the original position puts up a security gate to that we can't leave. We can go all the way around the largest sphere and enter through a hatch. It seems to be a computer interface. There are a lot of green lights around. What could those be?
