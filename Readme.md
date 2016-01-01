@@ -3,12 +3,10 @@ This walkthrough makes use of HTML5 'details' tags, which aren't yet supported i
 
 Submachine 10: The Exit
 =======================
-Complete Walkthrough
-
 <details><summary>Intro</summary>
 Welcome to the final "Submachine" game! The series has spanned 10 episodes in as many years. The creator, Mateusz Skutnik, has finished up with the best art and longest trek so far. I've enjoyed the series greatly, so I wanted to put some work into a good walkthrough for others. Prior experience with Submachine in not necessary, but there are many references to previous games for those who want to look back.
 
-<The game world consists of 8 major areas, each of which has a portal back to a section of a previous Submachine game. The graphic style is that of the original, but updates were made so that they'd be appropriate to the new game. Most of the game play involves clicking switches, collecting items, and finding out where to put them.
+The game world consists of 8 major areas, each of which has a portal back to a section of a previous Submachine game. The graphic style is that of the original, but updates were made so that they'd be appropriate to the new game. Most of the game play involves clicking switches, collecting items, and finding out where to put them.
 
 There are a few parts to this walkthrough. I try to have progressive hints throughout, so that you can figure out as much as possible on your own. Also, each successive part is more detail oriented, so you can look for high level hints in the "Hints" section, detailed directions, you'll need to check out the "Efficiency" section.
 
@@ -21,7 +19,6 @@ I label areas mainly by their teleporter coordinates. So, '101' means first and 
 Remember that the game is designed so that you can't get stuck. No matter what you've done, what you have, or where you are, you can still reach the ending! (And you can still get all the secrets!)
 
 Enjoy!
-
 </details>
 <details><summary>General Hints</summary>
 - You're not stuck.
@@ -43,14 +40,19 @@ This takes you through the game, pointing out clues. It's more commentary than d
 This is written as if we have everything we need to pass each obstacle. The player will have to jump back and forth between areas to actually reach the area in the next paragraph. Read about what you see, for subtle hints about what to do next. Spoiler hints will say where to go, but not what to do there or the best order to do anything.
 
 Progressive spoilers: character of the game, descriptions and clues, search locations
-1. <details><summary>Chapter 1: Where Am I?</summary>
+
+<details><summary>
+1. Chapter 1: Where Am I?
+</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
-  1. <details><summary>Docks</summary>
+  <details><summary>
+  1. Docks
+  </summary>
     We start off on an unstable platform with stone floating around. This seems to be a technologically mixed area that plaques call the Northern Garden docks. There are four labeled 'docks'. There's a ship anchored (literally) to one of the docks, but we can't see it. There's a ladder, but all it has is a glowing orb at the top. It seems small enough to grab. A hole in the ground leads to a machine that doesn't do anything, but does have a hole for something. Pieces of the wall are floating around. They seem to be centered on something. There's a building blocking our path. The circular device nearby looks like it might be useful.
     <details><summary>Hint</summary>
     - Put the Light Sphere in the circular device to gain access to the building.
     </details>
-    </details>
+  </details>
   2. <details><summary>Control Room</summary>
     This is a modest building that seems in disrepair. There are some levers upstairs labeled like the docks. What dock was the ship at? There's a backpack by a chair that looks useful. The stairway doesn't go anywhere. What breaks up support beams but leaves them floating? There's a vending machine in the corner. It seems to require an id card. Maybe there's one on the ship?
     <details><summary>Hint</summary>
@@ -72,11 +74,10 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
     </details>
 </details>
 2. <details><summary>Chapter 2: Grand Tour</summary>
-        <p>Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
-        <p>Main Areas
-        <details>
-        <summary>001 The Pyramid</summary>
-            <p>There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
+  Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
+
+  1. <details><summary>001 The Pyramid</summary>
+  There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
             <details>
                 The last hieroglyph page is in 111. The Karma Vile for the stone device is in 110P. You get the first Cog Wheel from the box when the totem is set up properly. The other 3 are in 001P, 101P, and 011. 
                 </details>
@@ -222,8 +223,8 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
                 The Coil is in 101P
                 </details>
             </details>
-    </details></li>
-    <li><details><summary>Chapter 3: Down the Rabbit Hole and Back</summary>
+    </details>
+    <details><summary>Chapter 3: Down the Rabbit Hole and Back</summary>
         <p>This part of the game is again more linear, with a little backtracking. Explore the oldest sections of Submachine games in order to open up the rest of the options. Don't be afraid when the exit disappears on you. You'll find another way out to end this part of the game.
         <details>
         <summary>000P Submachine 2: The Lighthouse</summary>
@@ -241,8 +242,8 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
                 </details>
             <p>Now this is familiar! All the puzzles here are just as we left them, but more broken apart and moldy. It must have been real after all! Well, lets collect all the items from before, maybe they'll be useful outside. There's a portal where the original exit was. The wisdom crystal is missing of course, but there's another Light Sphere in its place. Maybe they 'grow back' after a long enough time? Continuing to retrace our steps leads us back to the old house. Did we come from here originally?
             </details>
-    </details></li>
-    <li><details><summary>Chapter 4: Cleaning Up the Mess</summary>
+    </details>
+    <details><summary>Chapter 4: Cleaning Up the Mess</summary>
         <p>This part of the game is about traveling around, dealing with all the unfinished business you've noticed along the way. Find a way to reconstruct damaged sections of the world. Collect and use all the secrets now. Reach the giant bulb at the top of the lighthouse to move on to the last part.
         <details>
         <summary>Find a tool</summary>
@@ -266,8 +267,8 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
                 The tiles are in repaired karma portals in 000, 000P, 110, docks.
                 </details>
             </details>
-    </details></li>
-    <li><details><summary>Chapter 5: Leaving the Submachine</summary>
+    </details>
+    <details><summary>Chapter 5: Leaving the Submachine</summary>
         <p>Almost done! The karma doorway leads to the top of the lighthouse. The items in the there are used to acquire the pieces of the final mechanism. It's not very hard either. Just don't activate it if you want to try to get all the secrets. You have to start over from the beginning once you see the ending.
         <details>
         <summary>Enter the Lighthouse (Submachine 2)</summary>
