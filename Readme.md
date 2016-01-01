@@ -40,6 +40,7 @@ This takes you through the game, pointing out clues. It's more commentary than d
 This is written as if we have everything we need to pass each obstacle. The player will have to jump back and forth between areas to actually reach the area in the next paragraph. Read about what you see, for subtle hints about what to do next. Spoiler hints will say where to go, but not what to do there or the best order to do anything.
 
 Progressive spoilers: character of the game, descriptions and clues, search locations
+
 1. <details><summary>Chapter 1: Where Am I?</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
   1. <details><summary>Docks</summary>
@@ -271,8 +272,10 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
 Here you'll find what I think is a really efficient path through the game. It's not the common path, but I've left directions in each goal for getting the stuff you've missed if you're not following along. It's divided into milestones and steps. If you don't know what to do, check which milestones you've completed and take a look under the next one you haven't.
 
 Progressive spoilers: strategy, steps broken down, solutions and pointers
+
 1. <details><summary>Reach the Teleporter</summary>
   Look around and do a bunch of obvious stuff. You can ignore the Backpack if you're following this walkthrough, but you may want it just in case. You'll eventually find a red and white mechanism with three buttons in a row and one underneath. That's the teleporter. The top three set the location and the bottom one activates it, sending you to another, different-looking teleporter. You're at 000 currently.
+
   - <details><summary>Step-by-step</summary>
     1. There's a Light Sphere at the top of the ladder
     2. Use it to access the building. 
@@ -298,6 +301,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 2. <details><summary>Activate the '110' Powered Portal</summary>
   For this we need 5 Vector Finders, but 3 are in 110 in rooms near the portal. We need to teleport to two places to get them before heading to the portal. For efficiency, we should take a Plasma Charge with us, found in a fourth teleport location, and well hidden. You can get all of these items without needing any others.
+
   - <details><summary>Step-by-step</summary>
     1. Visit 100, get the Vector Finder, it's somewhere left of the teleporter
       - <details><summary>Hint</summary>
@@ -326,6 +330,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 3. <details><summary>Complete the Ladder</summary>
   For this we need 3 Ladder Steps, each in a different teleport location. One is, as you've guessed, behind the portal we just activated. While we're there, we'll save ourselves a trip by getting a rune and activating Shiva's emergency exit protocol. The second Step is a quick grab like the Vector Finders, but we'll collect a paper with a hint while we're there. The third Step will take some work, since we need to gain access to the powered portal to reach it. 
+
   - <details><summary>Step-by-step</summary>
     1. Enter the portal at 110, find the crawl vents and rune paper.
       - <details><summary>Hint</summary>
@@ -366,6 +371,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 4. <details><summary>Acquire the Second Light Sphere</summary>
   The first sphere is just beyond the ladder in 101P, but this is the 'harder' one to get. If you found the 'easy' one first, see 'Complete the Ladder' above to access this one. Use the Light Sphere to access the pod, and collect the other 4 items in this area. There are no more puzzles here. Avoid the paper. It has a hint for the end of the game, but it will fill an extra inventory slot so it's not worth it unless you're collecting them. After this area we'll grab the other Cog Wheel, and go collect the 'easy' Sphere. We waited so that we can complete that entire area, including past the portal, in one trip!
+
   - <details><summary>Step-by-step</summary>
     1. Collect 4 items in 101P
       - <details><summary>Hint</summary>
@@ -395,6 +401,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 5. <details><summary>Activate the '000' Powered Portal</summary>
   By now you've seen most of the areas, and we'll see most of the rest for this objective. The goal is to make use of your items to get 3 Portal Stabilisers and a Portal Charge. We have to visit one of two locations twice to finish up, so we'll pick the one that's quicker. Depending on how you used the first Light Sphere, you may have different items, so the first step is to use the second Sphere to get caught up.
+
   - <details><summary>Step-by-step</summary>
     1. If you haven't yet, use the Light Sphere at 101P, then finish 001
       - <details><summary>Hint</summary>
@@ -431,6 +438,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 6. <details><summary>Open the Back Door to '000'</summary>
   The puzzles here are mostly local, so enter the portal and keep pressing forward. There's a place to backtrack at the beginning, so we'll get the last rune paper first to minimize that. There are a bunch of items to get just before reaching the door, so it's best to get them now.
+
   - <details><summary>Step-by-step</summary>
     1. Visit 100 to get the last rune paper
       - <details><summary>Hint</summary>
@@ -463,6 +471,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 7. <details><summary>Fill the Stabiliser with Karma</summary>
   Now we can satisfy the large capsules that we've seen around the place. That will get us a Stabiliser, which we can then fill to make it useful. The idea is straight forward, but it's a major milestone that involves searching back through places we've been.
+
   - <details><summary>Step-by-step</summary>
     1. If you missed them, get the 4 Fuses and Skull
       - <details><summary>Hint</summary>
@@ -499,6 +508,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 8. <details><summary>Enter the Lighthouse</summary>
   The Stabiliser allows us to enter many new (small) areas. We need to collect 4 Tiles from them, and 2 Plasma Coils. We finally solve the puzzles in the Royal Storage, unless they've been completed along the way.
+
   - <details><summary>Step-by-step</summary>
     1. Visit 100, activate portal
       - <details><summary>Hint</summary>
@@ -544,6 +554,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 9. <details><summary>Exit the Lighthouse</summary>
   There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
+  
   - <details><summary>Step-by-step</summary>
     1. Get the Portable Light Crown from the ship
       - <details><summary>Hint</summary>
