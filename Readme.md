@@ -59,11 +59,11 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
   3. <details><summary>Ship</summary>
     - We can reach what seems to be a space ship, but it still needs power. Luckily, there's ship number card by the entrance, and those cables go right into the machine we saw.
     - <details><summary>Hint</summary>
-      - Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
+      Take the Id to the vending machine, insert it to get a Bottle Fuse, take it outside to the machine in the hole. Insert it and press the button.
       </details>
     - The ship is so old that there's mold everywhere! It's interesting to look at, but probably doesn't do anything anymore. Maybe there's some scrap to collect on board. We found the bridge, but the security is still in place, and we don't have a captain's ID badge, or whatever goes in the other slot. There's a hatch missing a handle, maybe that's still around somewhere.
     - <details><summary>Hint</summary>
-      - The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
+      The Door Valve is on the other side of the ship. Insert it into the hatch and click to open it.
       </details>
     </details>
   4. <details><summary>Old House</summary>
@@ -76,6 +76,18 @@ Progressive spoilers: character of the game, descriptions and clues, search loca
 
 oh wow it's over
 ================
+
+1. 1
+  2. 2
+    3. 3
+      4. 4
+        5. 5
+    3. 3
+      4. 4
+        5. 5
+1. 1
+  2. 2
+    3. 3
 
   1. <details><summary>001 The Pyramid</summary>
     - There's a bunch of ancient Egyptian stuff around, but the pyramid walls look like copper. There's a couple of geared devises on walls, but neither is complete. There's a totem with Hieroglyphics on it, and there are some papers around with the same symbols. A box on an upper level has the same symbol as the totem, but it doesn't seem to do anything. There are a couple of jackal heads that teleport us between them, which is odd because there are ladders that reach them both. There's also an odd gray stone device with buttons, attached to a socket. There's nothing around that fits in, though.
