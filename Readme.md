@@ -34,15 +34,14 @@ Enjoy!
 - There are some things you'll understand early, but can't be solved until much later.
 - All ten secrets are small red balls. Some are hidden in "plain sight".
 </details>
-<details><summary>
-## Descriptions Walkthrough
-</summary>
+## <details><summary>Descriptions Walkthrough</summary>
 
 This takes you through the game, pointing out clues. It's more commentary than directions, so it's good if you want vague hints, or want to read about a previous section to see if you missed an obscured clue. The back story is left out, but you're led to in-game papers that describe it. Secrets are dealt with as if they were normal game items, but more vague and left out of the spoiler hints. This walkthrough is set up as if it's telling the protagonist's story. Read the Efficiency Walkthrough section if you need clearer guidance.
 
 This is written as if we have everything we need to pass each obstacle. The player will have to jump back and forth between areas to actually reach the area in the next paragraph. Read about what you see, for subtle hints about what to do next. Spoiler hints will say where to go, but not what to do there or the best order to do anything.
 
 Progressive spoilers: character of the game, descriptions and clues, search locations.
+
 1. <details><summary>Chapter 1: Where Am I?</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
   1. <details><summary>Docks</summary>
@@ -611,7 +610,6 @@ Progressive spoilers: hint title, area and needed items, detail
   <details><summary>000P, with Pearl</summary>
   Get a Pearl from what looks like a faceless upright clock in the area behind the locked door. Put it in the box just off the main route through the powered portal.
   </details></details></details>
-
 6. <details><summary>Secret 6</summary>
   <details><summary>Lab Box</summary>
   <details><summary>110, with Pearl</summary>
