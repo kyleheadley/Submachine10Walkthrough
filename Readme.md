@@ -34,7 +34,7 @@ Enjoy!
 - There are some things you'll understand early, but can't be solved until much later.
 - All ten secrets are small red balls. Some are hidden in "plain sight".
 </details>
-## <details><summary>Descriptions Walkthrough</summary>
+<details><summary>Descriptions Walkthrough</summary>
 
 This takes you through the game, pointing out clues. It's more commentary than directions, so it's good if you want vague hints, or want to read about a previous section to see if you missed an obscured clue. The back story is left out, but you're led to in-game papers that describe it. Secrets are dealt with as if they were normal game items, but more vague and left out of the spoiler hints. This walkthrough is set up as if it's telling the protagonist's story. Read the Efficiency Walkthrough section if you need clearer guidance.
 
@@ -578,6 +578,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
   </details>
 </details>
 <details><summary>Secrets</summary>
+
 Generally in order of accessibility
 
 Progressive spoilers: hint title, area and needed items, detail
@@ -587,19 +588,16 @@ Progressive spoilers: hint title, area and needed items, detail
   <details><summary>110 32/1 Nothing needed</summary>
   The secret is on the wall by the upper right light in the room with the mechanism you open to get an item. Click the dot that's redder than the rest of the wall.
   </details></details></details>
-
 2. <details><summary>Secret 2</summary>
   <details><summary>Tomb</summary>
   <details><summary>111P Nothing needed</summary>
   The secret is in a big pile of sand right of the entry point into the tomb. Click the oddly colored highlight to get it.
   </details></details></details>
-
 3. <details><summary>Secret 3</summary>
   <details><summary>Telescope</summary>
   <details><summary>011P Nothing needed</summary>
   Collect two parts of a telescope from rooms in the shrine and assemble them on a mount in another room. Look through the telescope to release the secret.
   </details></details></details>
-
 4. <details><summary>Secret 4</summary>
   <details><summary>Sleeping Spoon</summary>
   <details><summary>000 Red area, after completing powered portal</summary>
@@ -615,31 +613,26 @@ Progressive spoilers: hint title, area and needed items, detail
   <details><summary>110, with Pearl</summary>
   Get a Pearl from what looks like a faceless upright clock in the area behind the locked door of 000. Put it in the box through the left door of the three at the right of 110.
   </details></details></details>
-
 7. <details><summary>Secret 7</summary>
   <details><summary>Loop</summary>
   <details><summary>100P, with 4 Stone Cubes</summary>
   Get four stone cubes from the floor of a room past the locked door in 000. Travel through the loop until you see a grid with missing corners. Place a cube in each corner. Travel through the loop until you see the backing of the grid, with a secret available.
   </details></details></details>
-
 8. <details><summary>Secret 8</summary>
   <details><summary>Pillars</summary>
   <details><summary>110, with Karma Stabiliser</summary>
   At the far right of the area are some broken pillars. Repair them with the stabiliser to access the secret.
   </details></details></details>
-
 9. <details><summary>Secret 9</summary>
   <details><summary>Entry</summary>
   <details><summary>000 Docks, with Karma Stabiliser</summary>
   Return to the place of your entry to the game, far left of the Docks. Repair the wall to access a karma portal to a little place with a secret.
   </details></details></details>
-
 10. <details><summary>Secret 10</summary>
   <details><summary>First Sight</summary>
   <details><summary>000, with Long Stick and Metal Spring</summary>
   The first is the last! Enter 100 33/4 (top right vault) and go right three times to find a long stick. Go to 110, left along the bridge made using the Plasma Canister. Repair the wall and enter the portal to find a box with a spring inside. Combine the stick and spring by clicking one on the other. Use the stick on the visible secret in the hole to retrieve it.
   </details></details> </details>
-
 11. <details><summary>Secret Vault</summary>
   <details><summary>Battery</summary>
   <details><summary>110P, Battery</summary>
