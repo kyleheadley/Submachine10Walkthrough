@@ -1,17 +1,17 @@
-This walkthrough makes use of HTML5 'details' tags, which aren't yet supported in all browsers. See http://www.w3schools.com/tags/tag_details.asp to pick one that will work.
+This walkthrough hides spoilers through use of HTML5 'details' tags, which aren't yet supported in all browsers. See http://www.w3schools.com/tags/tag_details.asp to pick one that will work.
 
 
 Walkthrough for Submachine 10: The Exit
 =======================================
 
-## Intro
+## Walkthrough Introduction
 
 <details>
 Welcome to the final "Submachine" game! The series has spanned 10 episodes in as many years. The creator, Mateusz Skutnik, has finished up with the best art and longest trek so far. I've enjoyed the series greatly, so I wanted to put some work into a good walkthrough for others. Prior experience with Submachine in not necessary, but there are many references to previous games for those who want to look back.
 
 The game world consists of 8 major areas, each of which has a portal back to a section of a previous Submachine game. The graphic style is that of the original, but updates were made so that they'd be appropriate to the new game. Most of the game play involves clicking switches, collecting items, and finding out where to put them.
 
-There are a few parts to this walkthrough. I try to have progressive hints throughout, so that you can figure out as much as possible on your own. Also, each successive part is more detail oriented, so you can look for high level hints in the "Hints" section, detailed directions, you'll need to check out the "Efficiency" section.
+There are a few parts to this walkthrough. I try to have progressive hints throughout, so that you can figure out as much as possible on your own. Also, each successive part is more detail oriented, so you can look for high level hints in the "Hints" section, but for detailed directions, you'll need to check out the "Efficiency" section.
 
 "Explanations Walkthrough" leads you to clues to what you need before finding those items. It's a lot of back and forth, but hopefully you will understand what's going on. "Efficiency Walkthrough" is designed around subgoals for accessing the ending. Items are collected and used at convenient times with no explanation about what they are.
 
