@@ -401,7 +401,7 @@ Progressive spoilers: strategy, steps broken down, solutions and pointers
 
 ### Goal 1: Reach the Teleporter
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 Look around and do a bunch of obvious stuff. You can ignore the Backpack if you're following this walkthrough, but you may want it just in case. You'll eventually find a red and white mechanism with three buttons in a row and one underneath. That's the teleporter. The top three set the location and the bottom one activates it, sending you to another, different-looking teleporter. You're at 000 currently.
 
 <details><summary>Steps and Secrets</summary>
@@ -431,7 +431,7 @@ None accessible now
 
 ### Goal 2: Activate the '110' Powered Portal
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 For this we need 5 Vector Finders, but 3 are in 110 in rooms near the portal. We need to teleport to two places to get them before heading to the portal. For efficiency, we should take a Plasma Charge with us, found in a fourth teleport location, and well hidden. You can get all of these items without needing any others.
 
 <details><summary>Steps and Secrets</summary>
@@ -464,7 +464,7 @@ Secret 1 is in the vault, you'll be back later, so no pressure. An item for acce
 
 ### Goal 3: Complete the Ladder
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 For this we need 3 Ladder Steps, each in a different teleport location. One is, as you've guessed, behind the portal we just activated. While we're there, we'll save ourselves a trip by getting a rune and activating Shiva's emergency exit protocol. The second Step is a quick grab like the Vector Finders, but we'll collect a paper with a hint while we're there. The third Step will take some work, since we need to gain access to the powered portal to reach it. 
 
 <details><summary>Steps and Secrets</summary>
@@ -509,7 +509,7 @@ The Secret Vault is the door labeled S3C, but you can't get in yet
 
 ### Goal 4: Acquire the Second Light Sphere
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 The first sphere is just beyond the ladder in 101P, but this is the 'harder' one to get. If you found the 'easy' one first, see 'Complete the Ladder' above to access this one. Use the Light Sphere to access the pod, and collect the other 4 items in this area. There are no more puzzles here. Avoid the paper. It has a hint for the end of the game, but it will fill an extra inventory slot so it's not worth it unless you're collecting them. After this area we'll grab the other Cog Wheel, and go collect the 'easy' Sphere. We waited so that we can complete that entire area, including past the portal, in one trip!
 
 <details><summary>Steps and Secrets</summary>
@@ -542,7 +542,7 @@ Nothing here
 
 ### Goal 5: Activate the '000' Powered Portal
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 By now you've seen most of the areas, and we'll see most of the rest for this objective. The goal is to make use of your items to get 3 Portal Stabilisers and a Portal Charge. We have to visit one of two locations twice to finish up, so we'll pick the one that's quicker. Depending on how you used the first Light Sphere, you may have different items, so the first step is to use the second Sphere to get caught up.
 
 <details><summary>Steps and Secrets</summary>
@@ -583,7 +583,7 @@ Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later.
 
 ### Goal 6: Open the Back Door to '000'
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 The puzzles here are mostly local, so enter the portal and keep pressing forward. There's a place to backtrack at the beginning, so we'll get the last rune paper first to minimize that. There are a bunch of items to get just before reaching the door, so it's best to get them now.
 
 <details><summary>Steps and Secrets</summary>
@@ -620,7 +620,7 @@ An item for Secret 10 is near the rune paper, but we don't need it yet and will 
 
 ### Goal 7: Fill the Stabiliser with Karma
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 Now we can satisfy the large capsules that we've seen around the place. That will get us a Stabiliser, which we can then fill to make it useful. The idea is straight forward, but it's a major milestone that involves searching back through places we've been.
 
 <details><summary>Steps and Secrets</summary>
@@ -661,7 +661,7 @@ Secret 6 is in the lab.
 
 ### Goal 8: Enter the Lighthouse
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 The Stabiliser allows us to enter many new (small) areas. We need to collect 4 Tiles from them, and 2 Plasma Coils. We finally solve the puzzles in the Royal Storage, unless they've been completed along the way.
 
 <details><summary>Steps and Secrets</summary>
@@ -711,7 +711,7 @@ Secret 1 is in a vault. An item for Secret 10 is in a vault, but you may need to
 
 ### Goal 9: Exit the Lighthouse
 
-<details><summary>Summary</summary>
+<details><summary>Strategy</summary>
 There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
 
 <details><summary>Steps and Secrets</summary>
@@ -734,6 +734,7 @@ Go back to the docks and under the building to the lighthouse. Insert the Holder
 #### Secrets
 <details>
 Visit the secret vault when you're nearby. You can use all the secret balls to reveal history messages, and a final 'Thank You' from creator Mateusz Skutnik
+</details>
 </details>
 </details>
 </details>
