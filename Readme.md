@@ -769,7 +769,7 @@ Progressive spoilers: hint title, area and needed items, detail
 5. <details><summary>Secret 5</summary>
   <details><summary>Basement Box</summary>
   <details><summary>000P, with Pearl</summary>
-  Get a Pearl from what looks like a faceless upright clock in the area behind the locked door. Put it in the box just off the main route through the powered portal.
+  Get a Pearl from what looks like a faceless upright clock in the area behind the locked door of 000. Put it in the box just off the main route through the powered portal.
   </details></details></details>
 6. <details><summary>Secret 6</summary>
   <details><summary>Lab Box</summary>
