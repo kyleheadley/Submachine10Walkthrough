@@ -40,6 +40,7 @@ This takes you through the game, pointing out clues. It's more commentary than d
 This is written as if we have everything we need to pass each obstacle. The player will have to jump back and forth between areas to actually reach the area in the next paragraph. Read about what you see, for subtle hints about what to do next. Spoiler hints will say where to go, but not what to do there or the best order to do anything.
 
 Progressive spoilers: character of the game, descriptions and clues, search locations
+
 1. <details><summary>Chapter 1: Where Am I?</summary>
   The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
   1. <details><summary>Docks</summary>
