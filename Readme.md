@@ -40,7 +40,7 @@ Enjoy!
 </details>
 
 ## Descriptions Walkthrough
-<details>
+<details><summary>Chapters:</summary>
 This takes you through the game, pointing out clues. It's more commentary than directions, so it's good if you want vague hints, or want to read about a previous section to see if you missed an obscured clue. The back story is left out, but you're led to in-game papers that describe it. Secrets are dealt with as if they were normal game items, but more vague and left out of the spoiler hints. This walkthrough is set up as if it's telling the protagonist's story. Read the Efficiency Walkthrough section if you need clearer guidance.
 
 This is written as if we have everything we need to pass each obstacle. The player will have to jump back and forth between areas to actually reach the area in the next paragraph. Read about what you see, for subtle hints about what to do next. Spoiler hints will say where to go, but not what to do there or the best order to do anything.
@@ -48,7 +48,7 @@ This is written as if we have everything we need to pass each obstacle. The play
 Progressive spoilers: character of the game, descriptions and clues, search locations.
 
 ### Chapter 1: Where Am I?
-<details>
+<details><summary>Summary:</summary>
 The first part of the game is simple and linear. Explore a bit, click to collect items, and use them where you can. Don't miss the 'Backpack' early on, you have limited inventory space! Figure out how the game works. Pass though rooms and portals. Find the teleporter to finish this part.
 
 #### Docks
@@ -86,7 +86,7 @@ We found a karma portal like the ones in previous Submachine games. They'll prob
 </details>
 
 ### Chapter 2: Grand Tour
-<details>
+<details><summary>Summary:</summary>
 Now that you have access to a teleporter, there are many worlds to explore. Go from place to place collecting and using items. About half of them are used in the area you found them in, the rest go through the teleporter. Use the teleporter to get to areas new to this game. Use the powered portals to get to areas from previous Submachine games. You'll finish this part of the game when you gather all the pieces to activate the powered portal in the first area.
 
 #### 001 The Pyramid
@@ -257,7 +257,7 @@ We just came from here but it looks like a lot of time has past. There's a lot m
 </details>
 
 ### Chapter 3: Down the Rabbit Hole and Back
-<details>
+<details><summary>Summary:</summary>
 This part of the game is again more linear, with a little backtracking. Explore the oldest sections of Submachine games in order to open up the rest of the options. Don't be afraid when the exit disappears on you. You'll find another way out to end this part of the game.
 
 #### 000P Submachine 2: The Lighthouse
@@ -281,7 +281,7 @@ Now this is familiar! All the puzzles here are just as we left them, but more br
 </details>
 
 ### Chapter 4: Cleaning Up the Mess
-<details>
+<details><summary>Summary:</summary>
 This part of the game is about traveling around, dealing with all the unfinished business you've noticed along the way. Find a way to reconstruct damaged sections of the world. Collect and use all the secrets now. Reach the giant bulb at the top of the lighthouse to move on to the last part.
 
 #### Find a tool
@@ -310,7 +310,7 @@ There were so many places to go! Mostly there were Tiles to collect. There was a
 </details>
 
 ### Chapter 5: Leaving the Submachine
-<details>
+<details><summary>Summary:</summary>
 Almost done! The karma doorway leads to the top of the lighthouse. The items in the there are used to acquire the pieces of the final mechanism. It's not very hard either. Just don't activate it if you want to try to get all the secrets. You have to start over from the beginning once you see the ending.
 
 #### Enter the Lighthouse (Submachine 2)
@@ -342,13 +342,13 @@ They are Murtaugh and Elizabeth. They are the people the notes have been written
 </details>
 
 ## Efficiency Walkthrough
-<details>
+<details><summary>Goals:</summary>
 Here you'll find what I think is a really efficient path through the game. It's not the common path, but I've left directions in each goal for getting the stuff you've missed if you're not following along. It's divided into milestones and steps. If you don't know what to do, check which milestones you've completed and take a look under the next one you haven't.
 
 Progressive spoilers: strategy, steps broken down, solutions and pointers
 
 ### Goal 1: Reach the Teleporter
-<details>
+<details><summary>Summary:</summary>
 Look around and do a bunch of obvious stuff. You can ignore the Backpack if you're following this walkthrough, but you may want it just in case. You'll eventually find a red and white mechanism with three buttons in a row and one underneath. That's the teleporter. The top three set the location and the bottom one activates it, sending you to another, different-looking teleporter. You're at 000 currently.
 
 <details><summary>Steps and Secrets</summary>
@@ -377,7 +377,7 @@ None accessible now
 </details>
 
 ### Goal 2: Activate the '110' Powered Portal
-<details>
+<details><summary>Summary:</summary>
 For this we need 5 Vector Finders, but 3 are in 110 in rooms near the portal. We need to teleport to two places to get them before heading to the portal. For efficiency, we should take a Plasma Charge with us, found in a fourth teleport location, and well hidden. You can get all of these items without needing any others.
 
 <details><summary>Steps and Secrets</summary>
@@ -409,7 +409,7 @@ Secret 1 is in the vault, you'll be back later, so no pressure. An item for acce
 </details>
 
 ### Goal 3: Complete the Ladder
-<details>
+<details><summary>Summary:</summary>
 For this we need 3 Ladder Steps, each in a different teleport location. One is, as you've guessed, behind the portal we just activated. While we're there, we'll save ourselves a trip by getting a rune and activating Shiva's emergency exit protocol. The second Step is a quick grab like the Vector Finders, but we'll collect a paper with a hint while we're there. The third Step will take some work, since we need to gain access to the powered portal to reach it. 
 
 <details><summary>Steps and Secrets</summary>
@@ -453,7 +453,7 @@ The Secret Vault is the door labeled S3C, but you can't get in yet
 </details>
 
 ### Goal 4: Acquire the Second Light Sphere
-<details>
+<details><summary>Summary:</summary>
 The first sphere is just beyond the ladder in 101P, but this is the 'harder' one to get. If you found the 'easy' one first, see 'Complete the Ladder' above to access this one. Use the Light Sphere to access the pod, and collect the other 4 items in this area. There are no more puzzles here. Avoid the paper. It has a hint for the end of the game, but it will fill an extra inventory slot so it's not worth it unless you're collecting them. After this area we'll grab the other Cog Wheel, and go collect the 'easy' Sphere. We waited so that we can complete that entire area, including past the portal, in one trip!
 
 <details><summary>Steps and Secrets</summary>
@@ -485,7 +485,7 @@ Nothing here
 </details>
 
 ### Goal 5: Activate the '000' Powered Portal
-<details>
+<details><summary>Summary:</summary>
 By now you've seen most of the areas, and we'll see most of the rest for this objective. The goal is to make use of your items to get 3 Portal Stabilisers and a Portal Charge. We have to visit one of two locations twice to finish up, so we'll pick the one that's quicker. Depending on how you used the first Light Sphere, you may have different items, so the first step is to use the second Sphere to get caught up.
 
 <details><summary>Steps and Secrets</summary>
@@ -525,7 +525,7 @@ Secret 2 is in the tomb. Secret 3 is in the shrine, you'll be back there later.
 </details>
 
 ### Goal 6: Open the Back Door to '000'
-<details>
+<details><summary>Summary:</summary>
 The puzzles here are mostly local, so enter the portal and keep pressing forward. There's a place to backtrack at the beginning, so we'll get the last rune paper first to minimize that. There are a bunch of items to get just before reaching the door, so it's best to get them now.
 
 <details><summary>Steps and Secrets</summary>
@@ -561,7 +561,7 @@ An item for Secret 10 is near the rune paper, but we don't need it yet and will 
 </details>
 
 ### Goal 7: Fill the Stabiliser with Karma
-<details>
+<details><summary>Summary:</summary>
 Now we can satisfy the large capsules that we've seen around the place. That will get us a Stabiliser, which we can then fill to make it useful. The idea is straight forward, but it's a major milestone that involves searching back through places we've been.
 
 <details><summary>Steps and Secrets</summary>
@@ -601,7 +601,7 @@ Secret 6 is in the lab.
 </details>
 
 ### Goal 8: Enter the Lighthouse
-<details>
+<details><summary>Summary:</summary>
 The Stabiliser allows us to enter many new (small) areas. We need to collect 4 Tiles from them, and 2 Plasma Coils. We finally solve the puzzles in the Royal Storage, unless they've been completed along the way.
 
 <details><summary>Steps and Secrets</summary>
@@ -646,9 +646,10 @@ Exit the ship. The wall near the Light Sphere is broken. Fix it with the Karma S
 Secret 1 is in a vault. An item for Secret 10 is in a vault, but you may need to get it on the way out to if you're worried about inventory space. Secret 7 is in the loop. Secret 8 is in the lab, as is the other item for Secret 10. Secret 10 is now reachable. Secret 5 is on the way to Tile B. Secret 9 is at the docks.
 </details>
 </details>
+</details>
 
 ### Goal 9: Exit the Lighthouse
-<details>
+<details><summary>Summary:</summary>
 There are three items needed to exit, and one you should have by now. The two items to the left and right of the large bulb in the lighthouse can each be traded for one of the others. Put them together in the right place and it's all over. Don't activate them if you want to collect secrets. Once you see the ending you have to start the game over.
 
 <details><summary>Steps and Secrets</summary>
